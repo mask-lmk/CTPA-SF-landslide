@@ -1,0 +1,36 @@
+{
+  "device": "NVIDIA GeForce RTX 3080",
+  "warmup": 50,
+  "repetitions": 5,
+  "forwards_per_repeat": 100,
+  "batch": 1,
+  "input": 640,
+  "precision": "FP32",
+  "scope": "network forward and decoding",
+  "results": [
+    {
+      "model": "yolo11n",
+      "parameters": 2590035,
+      "gflops": 6.4406016,
+      "latency_ms": 8.2142275390625,
+      "latency_sd_ms": 0.14362858438389606,
+      "fps": 121.73999262189068
+    },
+    {
+      "model": "ctpa",
+      "parameters": 2493267,
+      "gflops": 6.3100416,
+      "latency_ms": 8.584637817382813,
+      "latency_sd_ms": 0.17368517474712322,
+      "fps": 116.48715080036641
+    },
+    {
+      "model": "sf",
+      "parameters": 2423038,
+      "gflops": 6.308812799999998,
+      "latency_ms": 8.958379272460936,
+      "latency_sd_ms": 0.15706361830042775,
+      "fps": 111.62733454187548
+    }
+  ]
+}

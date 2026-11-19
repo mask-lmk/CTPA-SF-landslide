@@ -1,0 +1,36 @@
+{
+  "bijie": {
+    "images": 2773,
+    "instances": 770,
+    "negative_images": 2003,
+    "shapes": {
+      "distinct_image_shapes": 2607
+    },
+    "mask_values": {
+      "0": 770,
+      "255": 770
+    },
+    "errors": [],
+    "manifest_count_matches": true
+  },
+  "cas_moxi": {
+    "images": 1795,
+    "instances": 4456,
+    "negative_images": 0,
+    "shapes": {
+      "distinct_image_shapes": 1
+    },
+    "mask_values": {
+      "0": 1793,
+      "1": 1795
+    },
+    "errors": [],
+    "manifest_count_matches": true
+  },
+  "preprocessing": {
+    "decode": "cv2 BGR uint8; exported PNG preserves decoded pixels",
+    "tensor": "local Ultralytics Format reverses BGR to RGB and normalizes /255",
+    "resize": "aspect preserving letterbox; no ground sampling distance harmonization",
+    "scope": "Dataset pixel/annotation conversion audit; geographic provenance and label completeness require source documentation."
+  }
+}

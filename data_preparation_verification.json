@@ -1,0 +1,8 @@
+{
+  "images": 2773,
+  "manifests_identical": true,
+  "all_yolo_labels_identical": true,
+  "split_seed": 42,
+  "data_preparation": "Ran public release preparation scripts from original Bijie files without CAS input",
+  "scope": "No new training was required for this reproduction check."
+}
