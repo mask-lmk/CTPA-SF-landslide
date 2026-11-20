@@ -1,10 +1,10 @@
-# 方案2: SharedFormer — 共享QKV投影 + 1.25x FFN (~25K省, -11% vs UltraLight)
-# 核心改进:
-#   1. 共享QKV: 1个投影(dim→dim)后chunk为3份, 替代3个投影(dim→3*dim)
-#      QKV: 128*128=16K (vs 128*384=49K) → 省33K
-#   2. FFN 1.5x→1.25x: 128*160+160*128=41K (vs 49K) → 省8K
-#   3. 用省下的参数增强CNN分支: 添加ECA → +3 params
-# 精度保证: ALBERT/MobileViT证明共享QKV不损精度, ECA提升CNN质量
+# CTPA-SF: reduced-dimensional Q/K/V attention, 1.25x FFN, three ECA gates.
+# At hidden width 128: 128->120 projection, distinct Q/K/V width 40 each,
+# four heads of width 10, and a 40->128 output projection.
+# Attention: 20,480 weights vs 65,536 full-width weights (biases excluded).
+# FFN: 40,960 vs 49,152 weights for 1.25x vs the 1.50x ablation.
+# Base CTPA uses 2.0x FFN. Three width-3 ECA gates add nine weights.
+# This is dimensionality reduction, not Q/K/V weight tying; no accuracy guarantee.
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -39,7 +39,7 @@ class SEAttention(nn.Module):
 
 
 class SharedQKVAttention(nn.Module):
-    """共享QKV投影的自注意力 (ALBERT/MobileViT风格)"""
+    """Reduced-dimensional attention with distinct Q, K and V outputs."""
     def __init__(self, dim, num_heads=4):
         super().__init__()
         self.num_heads = num_heads
@@ -72,7 +72,7 @@ class SharedQKVAttention(nn.Module):
 
 
 class CNNTransformerParallel_V2_SharedFormer(nn.Module):
-    """方案2: SharedFormer — 共享QKV版 (~208K params vs UltraLight ~233K)"""
+    """Parallel CNN and reduced-dimensional attention with independent ECA gates."""
 
     def __init__(self, c1, c2=None, num_heads=4, expansion=0.5):
         super().__init__()
@@ -97,9 +97,9 @@ class CNNTransformerParallel_V2_SharedFormer(nn.Module):
         )
         self.cnn_eca = ECAAttention(hidden_dim)  # 新增: ECA增强CNN输出
 
-        # 3) SharedFormer: 共享QKV + 1.25x FFN (省~41K)
+        # 3) Reduced-dimensional Q/K/V attention and 1.25x FFN
         self.norm = nn.LayerNorm(hidden_dim)
-        self.attn = SharedQKVAttention(hidden_dim, num_heads)  # 共享QKV
+        self.attn = SharedQKVAttention(hidden_dim, num_heads)  # reduced Q/K/V dimensions
         ffn_hidden = int(hidden_dim * 1.25)  # 1.5x→1.25x
         self.ffn = nn.Sequential(
             nn.Linear(hidden_dim, ffn_hidden),
