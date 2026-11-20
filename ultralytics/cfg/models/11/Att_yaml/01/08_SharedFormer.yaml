@@ -1,6 +1,5 @@
-# 方案2: SharedFormer — 共享QKV版 (~-25K vs UltraLight)
-# 改进: 共享QKV投影(ALBERT风格) + 1.25x FFN + ECA增强CNN
-# 论文: ALBERT(ICLR2020) + MobileViT(ICLR2022)
+# CTPA-SF: reduced-dimensional Q/K/V attention, 1.25x FFN and three ECA gates.
+# Q, K and V are distinct outputs; no weight-tying or accuracy guarantee is implied.
 
 nc: 1
 
