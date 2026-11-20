@@ -85,7 +85,7 @@ evaluated on its test split. These follow-up tests are exploratory.
 ## Interpretation
 
 On Bijie test, SF achieves 45.87 ± 4.22% mAP50–95 and the baseline achieves
-43.17 ± 0.77%. One of three seed-matched strict-IoU differences is negative.
+43.17 ± 0.77%. One of three seed-matched mAP50–95 differences is negative.
 SF has 6.4% fewer parameters and higher measured FP32 batch-one latency.
 Motuo-to-Bijie and Motuo-to-Moxi transfer performs poorly. TTA and input-size
 follow-ups use already-inspected external datasets and are labeled exploratory.
@@ -96,3 +96,11 @@ eight Bijie validation configurations. S4 records the conversion audit, S5 the
 timing protocol, and S6 the external inference protocol.
 
 Public code and derived results: https://github.com/mask-lmk/CTPA-SF-landslide. Use a commit-specific URL when citing the exact revision. No DOI has been assigned.
+
+## Full-input operation audit
+
+The corrected Table 5 counts 2D convolutions and matrix products, including attention, at the actual 640 input (two FLOPs per MAC). The resulting counts for YOLO11n, CTPA and SF are 6.372, 6.376 and 6.264 counted GFLOPs. ECA 1D convolutions, normalization, activations, softmax, pooling and elementwise operations are excluded. These are supported-operator estimates, not complete hardware instruction counts or latency measurements. The previous small-input THOP estimates remain explicitly labeled legacy values in S5. Accuracy, parameter counts and measured GPU latency are unchanged.
+
+    python plos_revision/count_full_input_ops.py --repo . --output full_input_operations.json
+
+The script requires neither datasets nor pretrained checkpoints. PyTorch 2.0.1 was used for the reported accounting.
