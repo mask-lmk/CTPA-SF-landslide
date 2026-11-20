@@ -9,7 +9,7 @@
   "ultralytics/cfg/models/11/Att_yaml/01/05_GatedCNN-Edge.yaml": "246f0d1572365479ae00680ad323b74d868e23e8e7461346fb7395cefadc4d1c",
   "ultralytics/cfg/models/11/Att_yaml/01/06_BiFPN-Neck.yaml": "e817f87247175ae5b3d6472959c0333f8a28f7154550a9e6b39c2bc3136f386b",
   "ultralytics/cfg/models/11/Att_yaml/01/07_GhostFusion.yaml": "a53ca73210371fc20bf1facb9f3438f6f2c35d1359ded96da282da381195b24d",
-  "ultralytics/cfg/models/11/Att_yaml/01/08_SharedFormer.yaml": "f86a154a6f400471874baa966c8d0508ed824a0326c27c14f57eea56b51ecb59",
+  "ultralytics/cfg/models/11/Att_yaml/01/08_SharedFormer.yaml": "e178ec287f3233d10b8592c359f1e6fb0e79638e318fb4470efafa901e0d7476",
   "ultralytics/cfg/models/11/Att_yaml/01/09_TinyFormer.yaml": "2c050799ee00450569e99ba1203cc215e0f48bbb946fc4f4cfc30ff32389fac4",
   "ultralytics/cfg/models/11/Att_yaml/yolo11-A2.yaml": "e6a81dc3373c5ef9b881ee3df659f404b6982e7d08b5b6a94c1296f469f64752",
   "ultralytics/cfg/models/11/Att_yaml/yolo11-ACmix.yaml": "bb4aeb0e183889fa33e177b4e5604552feea0b4fe8563305d31c57a7b96b72f7",
@@ -214,7 +214,7 @@
   "ultralytics/nn/Attmodules/CNNTransformerParallel_A6.py": "05915d2cf45d74a357281d32ef586e626946815f5245eaac0fecb60e618a9cac",
   "ultralytics/nn/Attmodules/CNNTransformerParallel_UltraLight.py": "9002d0d3fd038d877e86472432eb946a73657282bb9520cb345e14039c359f09",
   "ultralytics/nn/Attmodules/CNNTransformerParallel_V1_GhostFusion.py": "249028fb69918ffcbd54c1e81385c83040a0826d6b921fc564982ae38427f58c",
-  "ultralytics/nn/Attmodules/CNNTransformerParallel_V2_SharedFormer.py": "4c2691b4b5703537be2b6add17b21c7c2eccbeea386af5753be92de36756b444",
+  "ultralytics/nn/Attmodules/CNNTransformerParallel_V2_SharedFormer.py": "55b20b4cdba1373e49b8fd3994b218abfb723e5e9eae7fc18635a044ded91b8c",
   "ultralytics/nn/Attmodules/CNNTransformerParallel_V3_TinyFormer.py": "7210048d7179c25852d7b99b9a299ffed3554e6079dacab297043cbc2ad85be5",
   "ultralytics/nn/Attmodules/DAAFM_Att.py": "076e8c9a4486cbc124435ee52a21e962cc128d53b43b9fe96ae734a910b4a4c6",
   "ultralytics/nn/Attmodules/DAAFM_Lite.py": "b47c8314cef21b5a05db31b7ba51b676cbeef02a18edb2c2922b0fc6c3d39273",
@@ -304,5 +304,6 @@
   "ultralytics/utils/tal.py": "6976b03a7867f278bae6d256216f8f62a5abfd346f96d6c7063ad3a3ba3a9434",
   "ultralytics/utils/torch_utils.py": "0fbe8fbe6c3938a87ebdde1a26438c3b47522db3395b31abec799db39e213c49",
   "ultralytics/utils/triton.py": "33ba9ee11ced8800c125011640a68842ca7de0444527ff3f0d41c347a4d710e3",
-  "ultralytics/utils/tuner.py": "6c7af4f45cfed3eb747a2e79817e70261fa86f288042889c3fb1d454cd88f2a0"
+  "ultralytics/utils/tuner.py": "6c7af4f45cfed3eb747a2e79817e70261fa86f288042889c3fb1d454cd88f2a0",
+  "plos_revision/count_full_input_ops.py": "deadf22637c062695e9502dd5f7bef9650c46753fb7a612d486415edd4038279"
 }
