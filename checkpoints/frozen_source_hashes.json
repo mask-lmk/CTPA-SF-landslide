@@ -1,0 +1,74 @@
+[
+  {
+    "model": "yolo11n",
+    "seed": 0,
+    "path": "checkpoints/yolo11n_seed0.pt",
+    "sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+    "implementation": "YOLO11n original200",
+    "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+  },
+  {
+    "model": "ctpa",
+    "seed": 0,
+    "path": "checkpoints/ctpa_seed0.pt",
+    "sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+    "implementation": "CTPA uncompressed, validation-selected continuation control",
+    "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+  },
+  {
+    "model": "sf",
+    "seed": 0,
+    "path": "checkpoints/sf_seed0.pt",
+    "sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+    "implementation": "sf_lr_aggressive",
+    "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+  },
+  {
+    "model": "yolo11n",
+    "seed": 1,
+    "path": "checkpoints/yolo11n_seed1.pt",
+    "sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+    "implementation": "YOLO11n original200",
+    "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+  },
+  {
+    "model": "ctpa",
+    "seed": 1,
+    "path": "checkpoints/ctpa_seed1.pt",
+    "sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+    "implementation": "CTPA uncompressed, validation-selected continuation control",
+    "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+  },
+  {
+    "model": "sf",
+    "seed": 1,
+    "path": "checkpoints/sf_seed1.pt",
+    "sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+    "implementation": "sf_lr_aggressive",
+    "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+  },
+  {
+    "model": "yolo11n",
+    "seed": 2,
+    "path": "checkpoints/yolo11n_seed2.pt",
+    "sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+    "implementation": "YOLO11n original200",
+    "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+  },
+  {
+    "model": "ctpa",
+    "seed": 2,
+    "path": "checkpoints/ctpa_seed2.pt",
+    "sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+    "implementation": "CTPA uncompressed, validation-selected continuation control",
+    "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+  },
+  {
+    "model": "sf",
+    "seed": 2,
+    "path": "checkpoints/sf_seed2.pt",
+    "sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+    "implementation": "sf_lr_aggressive",
+    "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "dataset": "mengdong_05",
+  "counts": {
+    "train": 649,
+    "val": 154,
+    "test": 192
+  },
+  "instances": {
+    "train": 3747,
+    "val": 1204,
+    "test": 1826
+  },
+  "axis": "x",
+  "cuts": [
+    2048.0,
+    4608.0
+  ],
+  "quantiles": [
+    0.6,
+    0.8
+  ],
+  "excluded_other_components": 0,
+  "excluded_buffer": 160,
+  "minimum_rectangle_gaps_pixels": {
+    "train_to_val": 512,
+    "val_to_test": 512,
+    "train_to_test": 3072
+  },
+  "selection": "Longest axis 60/80 percent count quantiles",
+  "limitation": "Relative pixel registration within largest component; no independently verified world/site distances."
+}

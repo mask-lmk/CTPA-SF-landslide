@@ -1,0 +1,40 @@
+{
+  "current_sf": "sf_lr_aggressive",
+  "implementation": "sf/sf_lowrank.py",
+  "qkv_rank": 48,
+  "ffn_rank": 32,
+  "fusion_rank": 80,
+  "qkv_dimensions": [
+    128,
+    48,
+    384
+  ],
+  "attention_heads": 4,
+  "head_dimension": 32,
+  "ffn_dimensions": [
+    [
+      128,
+      32,
+      256
+    ],
+    [
+      256,
+      32,
+      128
+    ]
+  ],
+  "fusion_dimensions": [
+    256,
+    80,
+    256
+  ],
+  "parameters": {
+    "yolo11n": 2590035,
+    "ctpa": 2493267,
+    "sf": 2403155
+  },
+  "baseline": "YOLO11n",
+  "ctpa_role": "Intermediate architecture and uncompressed continuation control",
+  "checkpoint_assets_in_this_commit": false,
+  "history": "Previous snapshot superseded for current manuscript; retained in history/archive."
+}

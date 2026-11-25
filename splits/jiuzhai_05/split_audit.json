@@ -1,0 +1,30 @@
+{
+  "dataset": "jiuzhai_05",
+  "raw_subdataset_images": 1752,
+  "registered_component": 9,
+  "registered_component_images": 798,
+  "excluded_other_components": 954,
+  "excluded_buffer": 101,
+  "counts": {
+    "train": 456,
+    "val": 100,
+    "test": 141
+  },
+  "instances": {
+    "train": 1101,
+    "val": 299,
+    "test": 348
+  },
+  "axis": "y",
+  "cut_positions": [
+    7680.0,
+    9984.0
+  ],
+  "minimum_rectangle_gaps_pixels": {
+    "train_to_val": 512,
+    "val_to_test": 512,
+    "train_to_test": 2816
+  },
+  "policy": "Largest verified connected component, longest axis, count quantiles 60/80%, +/-512px centre exclusion around both cuts. Selected on registration/counts only, not model performance.",
+  "scope": "Reconstructed relative-pixel spatial bands, no world coordinate/site independence claim. Excluded components and buffers are not fine-tuning or test inputs."
+}

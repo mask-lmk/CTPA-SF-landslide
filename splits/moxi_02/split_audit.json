@@ -1,0 +1,30 @@
+{
+  "dataset": "moxi_02",
+  "raw_subdataset_images": 1635,
+  "registered_component": 8,
+  "registered_component_images": 781,
+  "excluded_other_components": 854,
+  "excluded_buffer": 140,
+  "counts": {
+    "train": 436,
+    "val": 68,
+    "test": 137
+  },
+  "instances": {
+    "train": 684,
+    "val": 95,
+    "test": 231
+  },
+  "axis": "y",
+  "cut_positions": [
+    12288.0,
+    13824.0
+  ],
+  "minimum_rectangle_gaps_pixels": {
+    "train_to_val": 512,
+    "val_to_test": 512,
+    "train_to_test": 2048
+  },
+  "policy": "Largest verified connected component, longest axis, count quantiles 60/80%, +/-512px centre exclusion around both cuts. Selected on registration/counts only, not model performance.",
+  "scope": "Reconstructed relative-pixel spatial bands, no world coordinate/site independence claim. Excluded components and buffers are not fine-tuning or test inputs."
+}

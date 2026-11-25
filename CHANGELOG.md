@@ -1,0 +1,3 @@
+# Current low-rank SF revision
+
+2026-11-25: Update the default model documentation and reproduction entry point to low-rank SF. Preserve the earlier published snapshot in history/archive. Replace the older random Bijie split and early-stopped schedule with the current grouped positive-only 200-epoch protocol. Publish complete current source and five-stratum target results, including lower-performing strata. Distinguish target adaptation from zero-shot testing, YOLO11n baseline from CTPA control, and unequal source training budgets. Record common-baseline completion explicitly. No raw imagery, private contracts, manuscripts or weight binaries are included.

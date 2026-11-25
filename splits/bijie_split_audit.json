@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "created_at": "2026-11-22T13:39:22+08:00",
+  "original_positive_count": 770,
+  "place_group_counts": {
+    "df_and_zdf": 36,
+    "hz": 102,
+    "js": 75,
+    "ny": 72,
+    "qx": 168,
+    "qxg": 125,
+    "wn": 70,
+    "zj": 122
+  },
+  "assignment": {
+    "df_and_zdf": "val",
+    "hz": "train",
+    "js": "test",
+    "ny": "train",
+    "qx": "train",
+    "qxg": "train",
+    "wn": "train",
+    "zj": "val"
+  },
+  "original_counts": {
+    "train": 537,
+    "val": 158,
+    "test": 75
+  },
+  "augmented_counts": {
+    "train": 1074,
+    "val": 158,
+    "test": 75
+  },
+  "basis": "Author confirms filename codes are place names; no independent coordinate verification. df/zdf conservatively co-assigned without claiming verified equivalence.",
+  "group_overlap": false,
+  "lineage_overlap": false,
+  "exact_pixel_overlap": false,
+  "all_training_flip_labels_verified": true,
+  "augmentation_after_group_assignment": true,
+  "group_selection": "Exhaustive count-only normalized squared deviation from 70/20/10, seed42 tie order. No model results used.",
+  "limitation": "Place-code separation is not proof of site-level independence or a geographic buffer. Source validation and test contain positives only; no negative-only-scene false-alarm assessment."
+}

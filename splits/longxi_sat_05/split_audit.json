@@ -1,0 +1,31 @@
+{
+  "dataset": "longxi_sat_05",
+  "counts": {
+    "train": 567,
+    "val": 170,
+    "test": 159
+  },
+  "instances": {
+    "train": 1303,
+    "val": 354,
+    "test": 265
+  },
+  "axis": "y",
+  "cuts": [
+    11520.0,
+    15104.0
+  ],
+  "quantiles": [
+    0.6,
+    0.8
+  ],
+  "excluded_other_components": 787,
+  "excluded_buffer": 86,
+  "minimum_rectangle_gaps_pixels": {
+    "train_to_val": 512,
+    "val_to_test": 512,
+    "train_to_test": 4096
+  },
+  "selection": "Longest axis 60/80 percent count quantiles",
+  "limitation": "Relative pixel registration within largest component; no independently verified world/site distances."
+}

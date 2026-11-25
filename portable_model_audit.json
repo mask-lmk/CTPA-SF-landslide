@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "parameters": 2403155,
+  "compression_variant": "sf_lr_aggressive",
+  "cpu_forward_backward": true,
+  "preserving_trainer_preserves_parameters": true,
+  "python_sources_compile": true
+}

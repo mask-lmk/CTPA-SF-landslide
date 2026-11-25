@@ -1,106 +1,69 @@
-# CTPA-SF landslide detection reproduction package
+# CTPA-SF landslide detection
 
-This source snapshot supports the revision of PONE-D-26-46654,
-Lightweight Local-Global CNN-Transformer Collaborative Learning for Landslide Detection in Complex Mountainous Remote Sensing Imagery.
+This is the current low-rank SF implementation and experiment snapshot. **The baseline is YOLO11n.** CTPA is an intermediate architecture and the uncompressed continuation control. Current SF is `sf_lr_aggressive`. The previous SharedFormer manuscript snapshot is superseded and retained for provenance in Git history and the archive branch.
 
-The public Bijie comparison uses three matched training seeds. All individual
-results, including exploratory variants and low cross-domain scores, are included
-in results/. The manuscript's original SF model remains the primary model.
+## Current model and results
 
-## Contents
+SF factorizes CTPA's joint attention input (128→48→384), both FFN maps (128→32→256 and 256→32→128), and fusion (256→80→256), followed by recovery training. Attention retains four 32-channel heads and an unchanged 128→128 output projection. The same LayerNorm is reused at two sites. This uses established truncated-SVD approximation; general novelty of SVD is not claimed.
 
-- ultralytics/ contains the archived detection implementation used in these runs.
-  It reports version 8.3.185 and includes the CTPA and SharedFormer modules.
-- plos_revision/ contains preparation, training, evaluation and aggregation scripts.
-- splits/ contains image identifiers, exported pixel hashes and Bijie split membership.
-- results/ contains seed-level outcomes, validation comparisons, source-conversion
-  checks and inference/timing protocols.
-- source_checksums.json identifies the copied runtime source files.
+Unfused parameters: YOLO11n 2,590,035; CTPA 2,493,267; SF 2,403,155. SF reduces parameters by 7.22% versus YOLO11n and 3.61% versus CTPA. Bijie test mAP50–95: YOLO11n 51.05±2.34%; CTPA continuation control 56.34±4.55%; SF 56.97±4.55% (three-seed mean±sample SD).
 
-The software is distributed under AGPL-3.0 with the upstream license and
-attribution retained. Source changes include custom CTPA modules and model
-configurations and the revision experiment scripts. Dataset terms remain those
-of the original providers.
+**Training budget limitation:** YOLO11n uses 200 source epochs. The CTPA control receives an additional 200-epoch continuation stage; SF uses the 200-epoch CTPA teacher and 200-epoch recovery. Initial checkpoints remain eligible in validation selection. The 5.92-point SF-minus-YOLO11n mean is not an equal-total-budget architectural effect. Against the matched CTPA continuation control, the mean paired difference is +0.64 points. Current SF latency has not been measured.
 
-## Environment
+## Data and frozen splits
 
-Experiments used Python 3.10.20 and an NVIDIA RTX 3080, with PyTorch
-2.0.1+cu118 and torchvision 0.15.2+cu118. requirements.txt records the other
-observed package versions. Install the CUDA-compatible torch/torchvision pair
-appropriate to your environment, then install requirements.txt.
+Download [Bijie](https://gpcv.whu.edu.cn/data/Bijie_pages.html) and [CAS](https://doi.org/10.5281/zenodo.10294997) from their original providers. Data licensing terms remain applicable; no imagery or masks are redistributed. CAS documentation includes CC BY-NC 4.0 and sensor-specific imagery terms; public download is not unrestricted reuse permission.
 
-Use this repository's ultralytics directory. The training runner prepends the
-specified repository to the import path. A newly installed upstream package may
-have different custom-module registration and training behavior.
+Bijie uses 770 positive originals, excluding the 2,003 negative images: 537 train, 158 validation, 75 test. Filename place-code prefixes define groups; df/zdf are conservatively coassigned. One train-only horizontal flip gives 1,074 training images. Validation/test are unchanged. Filename grouping is not independently georeferenced site separation. `splits/bijie_manifest.json` fixes every assignment and transform.
 
-## Data
+CAS uses relative-pixel registration within the largest retained component, then spatial bands with excluded buffers. All five strata are retained: Jiuzhai 0.5 m, Moxi 0.2 m, Moxi 1 m, Mengdong 0.5 m and Longxi satellite 0.5 m. Moxi resolutions are one region, and Moxi 1 m has only 17 retained test images. These relative-coordinate splits do not establish absolute geographic independence. Each 8-connected foreground component of at least one pixel becomes an enclosing axis-aligned box.
 
-Bijie source imagery, positive masks and negative images are available from
-https://gpcv.whu.edu.cn/data/Bijie_pages.html .
-CAS source imagery and masks are available from
-https://doi.org/10.5281/zenodo.10294997 .
-Acquire them through their original sources, following the source terms.
+## Environment and reproduction
 
-The Bijie release contains 770 positive and 2,003 negative images. Each
-eight-connected foreground mask component becomes one enclosing axis-aligned
-box. No minimum area filter beyond one foreground pixel is used.
+Use Python 3.10, PyTorch 2.0.1+cu118 and torchvision 0.15.2+cu118, then install `requirements.txt`. The archived `ultralytics/` runtime reports 8.3.185; AGPL licensing and upstream attribution are retained. Generic runtime classes remain for compatibility, but are not current experiment choices. Use `sf/run.py` for the current experiments; historical experiment runners and custom YAML entry points have been removed from this default snapshot.
 
-For the optional CAS external preparation, create a UTF-8 CSV manifest with columns
-region_id,sensor,image_path,mask_path. List every image/mask pair from
-Moxi town UAV-0.2m and UAV-1m, with region_id set to Moxi town. The image and
-mask paths must point to your locally extracted files. The released identifiers
-are listed in splits/cas_moxi_manifest.csv. Pass this local index with --cas-manifest when preparing CAS. Bijie-only reproduction can be run directly with the commands below.
+From the repository root:
 
-The Motuo imagery is licensed to the authors for internal research. Access on
-equivalent terms has not been established. The publicly reproducible benchmark
-uses Bijie. The interpretation of restricted Motuo analyses remains subject to
-the journal's review of the Data Availability Statement.
+```sh
+python sf/prepare_data.py bijie --raw /data/Bijie-landslide-dataset --output outputs/bijie
+python sf/run.py source --model yolo11n --pretrained /weights/yolo11n.pt --data outputs/bijie/data.yaml --output outputs/yolo11n_seed0 --seed 0
+python sf/run.py source --model ctpa --pretrained /weights/yolo11n.pt --data outputs/bijie/data.yaml --output outputs/ctpa_seed0 --seed 0
+python sf/run.py compress --checkpoint outputs/ctpa_seed0/weights/best.pt --output outputs/sf_initial_seed0 --seed 0
+python sf/run.py recover --model sf --checkpoint outputs/sf_initial_seed0/initial.pt --data outputs/bijie/data.yaml --output outputs/sf_seed0 --seed 0
+python sf/run.py recover --model ctpa --checkpoint outputs/ctpa_seed0/weights/best.pt --data outputs/bijie/data.yaml --output outputs/ctpa_control_seed0 --seed 0
+```
 
-## Reproduce Bijie
+Repeat seeds 0, 1, 2. Before recovery, screening compares all three variants in `sf/sf_lowrank.py` using Bijie validation only; 48/32/80 was selected. For each recovery run, `selection.json` identifies the checkpoint selected using validation, which may retain the initial model.
 
-Run these commands from the repository root, substituting local source paths.
+```sh
+python sf/run.py evaluate --checkpoint /selected/source.pt --data outputs/bijie/data.yaml --output outputs/source_test --split test
+python sf/prepare_data.py cas --domain jiuzhai_05 --raw '/data/Jiuzhai valley (UAV-0.5m)' --output outputs/jiuzhai
+python sf/run.py evaluate --checkpoint /selected/source.pt --data outputs/jiuzhai/data.yaml --output outputs/before_jiuzhai --split test
+python sf/run.py adapt --model sf --checkpoint /selected/source.pt --data outputs/jiuzhai/data.yaml --output outputs/adapt_jiuzhai_sf_seed0 --seed 0
+python sf/run.py evaluate --checkpoint outputs/adapt_jiuzhai_sf_seed0/weights/best.pt --data outputs/jiuzhai/data.yaml --output outputs/after_jiuzhai_sf_seed0 --split test
+```
 
-    python plos_revision/prepare_external.py --bijie /data/Bijie-landslide-dataset --output outputs/external
-    python plos_revision/prepare_public_benchmark.py --bijie outputs/external/bijie --output outputs/bijie_benchmark --seed 42
+The custom trainer preserves factorized layers; rebuilding from ordinary CTPA YAML can erase SF compression. Source/adapted checkpoints use identical target test lists. Adaptation uses 200 epochs with labeled target training data and target-validation checkpoint selection. It is not zero-shot transfer. Protocol files record optimizer and augmentation settings. `source` also supports YOLOv8n/YOLOv10n with their respective COCO weights. Consult `results/common_baselines_status.json`; pending seeds are not final aggregates.
 
-The resulting public split has 1,941 training, 555 validation and 277 test
-images, containing 539, 154 and 77 instances. Compare the generated manifest to
-splits/bijie_manifest.csv before training.
+Checkpoint hashes identify actual study artifacts. **Weight binaries are not included in this commit**; the commands reconstruct/train the models. Hashes are not a promise of bit-for-bit independent training reproduction. Numeric tables retain original GPU evaluations; the PR audit records differences from native fixed-checkpoint CPU exports.
 
-Download the official COCO-pretrained yolo11n.pt to weights/yolo11n.pt.
-The same source checkpoint is used for all shape-compatible layers.
+## Interpretation and provenance
 
-    python plos_revision/run_queue.py --repo . --data outputs/bijie_benchmark/bijie_benchmark.yaml --output outputs/public --models yolo11n ctpa sf --seeds 0 1 2 --epochs 60 --patience 15 --batch 8 --split val
-    python plos_revision/run_study.py --repo . --data outputs/bijie_benchmark/bijie_benchmark.yaml --output outputs/public --models yolo11n ctpa sf --seeds 0 1 2 --stage evaluate --split test
+`results/` includes all current Bijie seed results, complete five-stratum zero-shot scores and before/after target adaptation. Jiuzhai and Mengdong were selected post hoc as main-text cases; other strata are retained. SF does not uniformly outperform both comparators across targets. Positive-only cohorts do not estimate background-only-scene false-alarm rates. Three positive source compression-minus-control differences are descriptive rather than a general significance claim.
 
-The first command trains/evaluates sequentially and skips completed matching
-training jobs. A partial training folder is reported for manual diagnosis.
-Best checkpoints use source validation fitness, 0.1 mAP50 + 0.9 mAP50–95.
+`figures/` contains code-based diagrams/charts, not imagery panels. `checkpoints/` contains identifiers/hashes, not binaries. `${PROJECT_ROOT}` tokens in archived protocols denote workspace-relative paths; the portable runner uses your CLI paths. No DOI is assigned to this Git snapshot. See `CHANGELOG.md` for the revision transition.
 
-For exploratory variants, the model names are sf_full_qkv, sf_wide_ffn,
-sf_no_eca, sf_fixed_weights and sf_qkv16. In the reported work, all variants
-were inspected on Bijie validation, and sf_no_eca and sf_wide_ffn were then
-evaluated on its test split. These follow-up tests are exploratory.
 
-## Interpretation
+## Completed source comparison
 
-On Bijie test, SF achieves 45.87 ± 4.22% mAP50–95 and the baseline achieves
-43.17 ± 0.77%. One of three seed-matched mAP50–95 differences is negative.
-SF has 6.4% fewer parameters and higher measured FP32 batch-one latency.
-Motuo-to-Bijie and Motuo-to-Moxi transfer performs poorly. TTA and input-size
-follow-ups use already-inspected external datasets and are labeled exploratory.
+All six common-baseline runs completed 200 epochs each. Values below use original GPU test evaluations.
 
-S1 reports both validation and test rows, identified by split and data columns.
-S2 contains every fixed exploratory inference configuration. S3 summarizes the
-eight Bijie validation configurations. S4 records the conversion audit, S5 the
-timing protocol, and S6 the external inference protocol.
+| Model | Parameters | mAP50 (%) | mAP50–95 mean±SD (%) |
+|---|---:|---:|---:|
+| yolov8n | 3,011,043 | 95.59 | 57.26±2.72 |
+| yolov10n | 2,707,430 | 89.19 | 49.71±6.92 |
+| YOLO11n baseline | 2,590,035 | 90.00 | 51.05±2.34 |
+| CTPA continuation control | 2,493,267 | 95.41 | 56.34±4.55 |
+| CTPA-SF | 2,403,155 | 95.68 | 56.97±4.55 |
 
-Public code and derived results: https://github.com/mask-lmk/CTPA-SF-landslide. Use a commit-specific URL when citing the exact revision. No DOI has been assigned.
-
-## Full-input operation audit
-
-The corrected Table 5 counts 2D convolutions and matrix products, including attention, at the actual 640 input (two FLOPs per MAC). The resulting counts for YOLO11n, CTPA and SF are 6.372, 6.376 and 6.264 counted GFLOPs. ECA 1D convolutions, normalization, activations, softmax, pooling and elementwise operations are excluded. These are supported-operator estimates, not complete hardware instruction counts or latency measurements. The previous small-input THOP estimates remain explicitly labeled legacy values in S5. Accuracy, parameter counts and measured GPU latency are unchanged.
-
-    python plos_revision/count_full_input_ops.py --repo . --output full_input_operations.json
-
-The script requires neither datasets nor pretrained checkpoints. PyTorch 2.0.1 was used for the reported accounting.
+SF is 0.29 percentage points below the YOLOv8n mean mAP50–95, with 20.19% fewer parameters. These are descriptive comparisons; source training budgets differ as stated above. No uniformly best-model claim is made.

@@ -1,0 +1,2499 @@
+{
+  "groups": [
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.06375840989521472,
+          "sample_sd": 0.015021669560428481
+        },
+        "recall": {
+          "mean": 0.035440613026819924,
+          "sample_sd": 0.012957614232249698
+        },
+        "map50": {
+          "mean": 0.031427457708162417,
+          "sample_sd": 0.012096845161336712
+        },
+        "map5095": {
+          "mean": 0.008126488178151349,
+          "sample_sd": 0.004432809718532672
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.49215244328843466,
+          "sample_sd": 0.03296163023882132
+        },
+        "recall": {
+          "mean": 0.45529425284279634,
+          "sample_sd": 0.013332905178017568
+        },
+        "map50": {
+          "mean": 0.41701591392997994,
+          "sample_sd": 0.015272277102086817
+        },
+        "map5095": {
+          "mean": 0.20604248770460395,
+          "sample_sd": 0.00623632547992523
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.08107402717123102,
+          "sample_sd": 0.026605302169042992
+        },
+        "recall": {
+          "mean": 0.039272030651341,
+          "sample_sd": 0.003318104995342677
+        },
+        "map50": {
+          "mean": 0.040592226201300256,
+          "sample_sd": 0.011789461592934062
+        },
+        "map5095": {
+          "mean": 0.009144692948459652,
+          "sample_sd": 0.0025520353892232346
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.4964641690727792,
+          "sample_sd": 0.04168205757310817
+        },
+        "recall": {
+          "mean": 0.47986441645510175,
+          "sample_sd": 0.025764972241128687
+        },
+        "map50": {
+          "mean": 0.4396783883404337,
+          "sample_sd": 0.021091399828914007
+        },
+        "map5095": {
+          "mean": 0.21333580488639,
+          "sample_sd": 0.009896836901314371
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.07930978875739952,
+          "sample_sd": 0.020909605195216865
+        },
+        "recall": {
+          "mean": 0.03735632183908046,
+          "sample_sd": 0.004977157493014014
+        },
+        "map50": {
+          "mean": 0.037582792788731265,
+          "sample_sd": 0.008717975778968701
+        },
+        "map5095": {
+          "mean": 0.008520041514270769,
+          "sample_sd": 0.0021333171303818915
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.4978336845965648,
+          "sample_sd": 0.016723949147568223
+        },
+        "recall": {
+          "mean": 0.4755427722106747,
+          "sample_sd": 0.024017617811921563
+        },
+        "map50": {
+          "mean": 0.43285532182448566,
+          "sample_sd": 0.041291172764282735
+        },
+        "map5095": {
+          "mean": 0.21625964761602695,
+          "sample_sd": 0.022853990018228736
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.14597113275957324,
+          "sample_sd": 0.0538036426181433
+        },
+        "recall": {
+          "mean": 0.08658008658008658,
+          "sample_sd": 0.027034623369690033
+        },
+        "map50": {
+          "mean": 0.0714247539513786,
+          "sample_sd": 0.039252682084411565
+        },
+        "map5095": {
+          "mean": 0.01370141143007725,
+          "sample_sd": 0.01056864451066865
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.4966998365941847,
+          "sample_sd": 0.026907396500917426
+        },
+        "recall": {
+          "mean": 0.39182040271420276,
+          "sample_sd": 0.02901249074681384
+        },
+        "map50": {
+          "mean": 0.32093387731904816,
+          "sample_sd": 0.02090654979060304
+        },
+        "map5095": {
+          "mean": 0.1367823712474213,
+          "sample_sd": 0.014571231952788073
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.17974561953469526,
+          "sample_sd": 0.010034789143805838
+        },
+        "recall": {
+          "mean": 0.10678210678210678,
+          "sample_sd": 0.004998703629347408
+        },
+        "map50": {
+          "mean": 0.10040231982137213,
+          "sample_sd": 0.007823640334519802
+        },
+        "map5095": {
+          "mean": 0.020525462681220106,
+          "sample_sd": 0.00328117542387328
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.4076818679022842,
+          "sample_sd": 0.06409165684015133
+        },
+        "recall": {
+          "mean": 0.37681743752150926,
+          "sample_sd": 0.03463366572644307
+        },
+        "map50": {
+          "mean": 0.3010340906666381,
+          "sample_sd": 0.015175838983399045
+        },
+        "map5095": {
+          "mean": 0.13115697361158685,
+          "sample_sd": 0.007537045004602996
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.17080499549698674,
+          "sample_sd": 0.012961850053850262
+        },
+        "recall": {
+          "mean": 0.10245310245310245,
+          "sample_sd": 0.006612663340484621
+        },
+        "map50": {
+          "mean": 0.09698254880996626,
+          "sample_sd": 0.010538262404478874
+        },
+        "map5095": {
+          "mean": 0.019123821667185643,
+          "sample_sd": 0.0027298286331754874
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.4313967207277265,
+          "sample_sd": 0.0765336648799465
+        },
+        "recall": {
+          "mean": 0.37746003953261414,
+          "sample_sd": 0.019615812766601456
+        },
+        "map50": {
+          "mean": 0.3175357607075843,
+          "sample_sd": 0.011070497767433537
+        },
+        "map5095": {
+          "mean": 0.1307958425612306,
+          "sample_sd": 0.004934634306663559
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "recall": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map50": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map5095": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.1279440998693366,
+          "sample_sd": 0.06869938789295618
+        },
+        "recall": {
+          "mean": 0.17829457364341086,
+          "sample_sd": 0.05083285677753488
+        },
+        "map50": {
+          "mean": 0.07243297879362334,
+          "sample_sd": 0.04330433515614237
+        },
+        "map5095": {
+          "mean": 0.028932478724765235,
+          "sample_sd": 0.022383903398672692
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "recall": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map50": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map5095": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.2073765251224507,
+          "sample_sd": 0.08295386264728968
+        },
+        "recall": {
+          "mean": 0.16020671834625325,
+          "sample_sd": 0.01950861611181073
+        },
+        "map50": {
+          "mean": 0.10541264820724448,
+          "sample_sd": 0.044584051960855485
+        },
+        "map5095": {
+          "mean": 0.04392582785881203,
+          "sample_sd": 0.020320128378468225
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "recall": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map50": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        },
+        "map5095": {
+          "mean": 0.0,
+          "sample_sd": 0.0
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.21925083790635103,
+          "sample_sd": 0.09273919274430828
+        },
+        "recall": {
+          "mean": 0.14728682170542637,
+          "sample_sd": 0.020509700085772013
+        },
+        "map50": {
+          "mean": 0.11490728515585251,
+          "sample_sd": 0.0453534597465664
+        },
+        "map5095": {
+          "mean": 0.04402562577023977,
+          "sample_sd": 0.02007498516506801
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.11115673596519698,
+          "sample_sd": 0.012428261308438236
+        },
+        "recall": {
+          "mean": 0.02701715954728003,
+          "sample_sd": 0.006106509194478909
+        },
+        "map50": {
+          "mean": 0.05792384563803775,
+          "sample_sd": 0.00610906171865515
+        },
+        "map5095": {
+          "mean": 0.023409423616450573,
+          "sample_sd": 0.003154953664651732
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.6176601135984358,
+          "sample_sd": 0.006944357137452743
+        },
+        "recall": {
+          "mean": 0.5592364242947224,
+          "sample_sd": 0.014139394525390496
+        },
+        "map50": {
+          "mean": 0.5663711211107468,
+          "sample_sd": 0.016452139973562596
+        },
+        "map5095": {
+          "mean": 0.29047330917978603,
+          "sample_sd": 0.007643967783926538
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.10506901510102361,
+          "sample_sd": 0.02495686868545693
+        },
+        "recall": {
+          "mean": 0.025191675794085433,
+          "sample_sd": 0.006840085430885431
+        },
+        "map50": {
+          "mean": 0.055745934901641425,
+          "sample_sd": 0.01520445406914403
+        },
+        "map5095": {
+          "mean": 0.021594616812386006,
+          "sample_sd": 0.006655973226793108
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.6143841080100628,
+          "sample_sd": 0.025256398570431535
+        },
+        "recall": {
+          "mean": 0.5730691098825992,
+          "sample_sd": 0.028716804997990234
+        },
+        "map50": {
+          "mean": 0.5831196736394321,
+          "sample_sd": 0.009764659432317609
+        },
+        "map5095": {
+          "mean": 0.296556292700615,
+          "sample_sd": 0.006769785081297852
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.10213545279153013,
+          "sample_sd": 0.01849454002493193
+        },
+        "recall": {
+          "mean": 0.023001095290251915,
+          "sample_sd": 0.007725485202445719
+        },
+        "map50": {
+          "mean": 0.053304294396563534,
+          "sample_sd": 0.010330444909394932
+        },
+        "map5095": {
+          "mean": 0.021353636723110497,
+          "sample_sd": 0.004282678460304348
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.5982902673237357,
+          "sample_sd": 0.026953072334652318
+        },
+        "recall": {
+          "mean": 0.5689359331865761,
+          "sample_sd": 0.011319049553159327
+        },
+        "map50": {
+          "mean": 0.574387889886912,
+          "sample_sd": 0.01261926890243623
+        },
+        "map5095": {
+          "mean": 0.292782987420924,
+          "sample_sd": 0.00795987491166263
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.04240134661667711,
+          "sample_sd": 0.01032699594042901
+        },
+        "recall": {
+          "mean": 0.025157232704402514,
+          "sample_sd": 0.015250761827650491
+        },
+        "map50": {
+          "mean": 0.014944564479794902,
+          "sample_sd": 0.006206930326126353
+        },
+        "map5095": {
+          "mean": 0.0049863262909782555,
+          "sample_sd": 0.001066709229544449
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.5124294379458749,
+          "sample_sd": 0.03440515379844807
+        },
+        "recall": {
+          "mean": 0.4968801342549057,
+          "sample_sd": 0.023708379190654695
+        },
+        "map50": {
+          "mean": 0.4370563318673128,
+          "sample_sd": 0.037202354914159526
+        },
+        "map5095": {
+          "mean": 0.17822078391880158,
+          "sample_sd": 0.018304113266922648
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.030959727147447515,
+          "sample_sd": 0.005424351642546913
+        },
+        "recall": {
+          "mean": 0.027672955974842768,
+          "sample_sd": 0.007855343394211822
+        },
+        "map50": {
+          "mean": 0.016282068700412627,
+          "sample_sd": 0.0031174718686722497
+        },
+        "map5095": {
+          "mean": 0.005989633815432298,
+          "sample_sd": 0.0008735680878346816
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.47935713997942436,
+          "sample_sd": 0.014348328460130306
+        },
+        "recall": {
+          "mean": 0.4993779243763843,
+          "sample_sd": 0.014274792421914508
+        },
+        "map50": {
+          "mean": 0.4386554520496847,
+          "sample_sd": 0.012673687329739688
+        },
+        "map5095": {
+          "mean": 0.17814005590297272,
+          "sample_sd": 0.009247768182887715
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "stage": "before",
+      "metrics": {
+        "precision": {
+          "mean": 0.028428952733697926,
+          "sample_sd": 0.003579430757505427
+        },
+        "recall": {
+          "mean": 0.023899371069182388,
+          "sample_sd": 0.012130378315714408
+        },
+        "map50": {
+          "mean": 0.014821978301524534,
+          "sample_sd": 0.0019487026610570293
+        },
+        "map5095": {
+          "mean": 0.0055325699556158184,
+          "sample_sd": 0.000558635326038088
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "stage": "after",
+      "metrics": {
+        "precision": {
+          "mean": 0.46343898852357435,
+          "sample_sd": 0.07137207789772286
+        },
+        "recall": {
+          "mean": 0.4867924528301887,
+          "sample_sd": 0.0037735849056603765
+        },
+        "map50": {
+          "mean": 0.41542575506353757,
+          "sample_sd": 0.024492923088742322
+        },
+        "map5095": {
+          "mean": 0.1771446848177875,
+          "sample_sd": 0.00489743066057726
+        }
+      }
+    }
+  ],
+  "paired_adaptation_differences": [
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.19591472933329487,
+        0.18856917647869192,
+        0.209264092767371
+      ],
+      "mean": 0.1979159995264526,
+      "sample_sd": 0.010491601490638831
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.21357709901928187,
+        0.2001704095572268,
+        0.19882582723728237
+      ],
+      "mean": 0.20419111193793035,
+      "sample_sd": 0.008156257752318158
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.23149700145626337,
+        0.19832262789594882,
+        0.19339918895305636
+      ],
+      "mean": 0.20773960610175618,
+      "sample_sd": 0.020721255711922175
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.1132699820598174,
+        0.11459214049941563,
+        0.1413807568927991
+      ],
+      "mean": 0.12308095981734404,
+      "sample_sd": 0.015861871121875107
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.12278820354447759,
+        0.10386727564651754,
+        0.10523905360010509
+      ],
+      "mean": 0.11063151093036674,
+      "sample_sd": 0.01055032346300198
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.10960030280652407,
+        0.11950434093350445,
+        0.10591141894210641
+      ],
+      "mean": 0.11167202089404497,
+      "sample_sd": 0.007029288295530288
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.008843689845351832,
+        0.053061245794443004,
+        0.024892500534500865
+      ],
+      "mean": 0.028932478724765235,
+      "sample_sd": 0.022383903398672692
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.06587765331681414,
+        0.025773869100590735,
+        0.04012596115903121
+      ],
+      "mean": 0.04392582785881203,
+      "sample_sd": 0.020320128378468225
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.06558658497369221,
+        0.025872981761231567,
+        0.040617310575795526
+      ],
+      "mean": 0.04402562577023977,
+      "sample_sd": 0.02007498516506801
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.27730866787063563,
+        0.2559459445389526,
+        0.26793704428041815
+      ],
+      "mean": 0.26706388556333543,
+      "sample_sd": 0.010708094678579467
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.2731842981235622,
+        0.27148628943351705,
+        0.28021444010760777
+      ],
+      "mean": 0.274961675888229,
+      "sample_sd": 0.004627575751530873
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.27141455063803277,
+        0.262201852288493,
+        0.28067164916691484
+      ],
+      "mean": 0.27142935069781354,
+      "sample_sd": 0.009234907333799686
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.18565087205673447,
+        0.1827160339523188,
+        0.1513364668744167
+      ],
+      "mean": 0.17323445762782333,
+      "sample_sd": 0.01902090476165616
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.17717699435763296,
+        0.17754718597175606,
+        0.16172708593323223
+      ],
+      "mean": 0.17215042208754042,
+      "sample_sd": 0.009028771394662334
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "definition": "after minus before on identical test subset, fractions",
+      "per_seed": [
+        0.17675102859891786,
+        0.17203337864044763,
+        0.16605193734714954
+      ],
+      "mean": 0.17161211486217168,
+      "sample_sd": 0.005361971258929113
+    }
+  ],
+  "raw": [
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.5241058112155945,
+      "recall": 0.45888011922136196,
+      "map50": 0.4520931271383315,
+      "map5095": 0.22428445700398844,
+      "checkpoint_sha256": "7f2667fc2b77c143fa231af8f0879da3df4300ee0e6b1c24052606307810fba4"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4614171935612826,
+      "recall": 0.46991194606008074,
+      "map50": 0.4077755223982309,
+      "map5095": 0.19382790706129205,
+      "checkpoint_sha256": "7f2667fc2b77c143fa231af8f0879da3df4300ee0e6b1c24052606307810fba4"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.5167659012215557,
+      "recall": 0.5086206896551724,
+      "map50": 0.45161634457036487,
+      "map5095": 0.2106974342674864,
+      "checkpoint_sha256": "69c8d16d20bf5dc08bb3f9c1af4b2979ab7745a47c99196ed5078905838f64a4"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.4357144109649688,
+      "recall": 0.5317725752508361,
+      "map50": 0.42249037309211535,
+      "map5095": 0.19418506449693165,
+      "checkpoint_sha256": "69c8d16d20bf5dc08bb3f9c1af4b2979ab7745a47c99196ed5078905838f64a4"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.4485207947811873,
+      "recall": 0.4720924404887709,
+      "map50": 0.4153256933126047,
+      "map5095": 0.2050255233876952,
+      "checkpoint_sha256": "2896693dccde4772290dbf9118ce320256142f972947ca90b6beb78123bf4ca2"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.4935490706472418,
+      "recall": 0.5317725752508361,
+      "map50": 0.4711323092401665,
+      "map5095": 0.23041794879996091,
+      "checkpoint_sha256": "2896693dccde4772290dbf9118ce320256142f972947ca90b6beb78123bf4ca2"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.5155435999511633,
+      "recall": 0.5028735632183908,
+      "map50": 0.4796643389369366,
+      "map5095": 0.24246938669556317,
+      "checkpoint_sha256": "53481f5a314485dca8f564521710fa650783c6dfcd2a5454978e66d26630799d"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4527473500588732,
+      "recall": 0.5317725752508361,
+      "map50": 0.3974628061239855,
+      "map5095": 0.19494216143829837,
+      "checkpoint_sha256": "53481f5a314485dca8f564521710fa650783c6dfcd2a5454978e66d26630799d"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.49564653380685353,
+      "recall": 0.465953755311527,
+      "map50": 0.41730243004281997,
+      "map5095": 0.20581786703276633,
+      "checkpoint_sha256": "3351d83fd1483e9d779cfc4b21355dfb6288a6a943582ebae837cc589cd37814"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.48779231533120715,
+      "recall": 0.49498327759197325,
+      "map50": 0.43949294069833267,
+      "map5095": 0.2003930687815257,
+      "checkpoint_sha256": "3351d83fd1483e9d779cfc4b21355dfb6288a6a943582ebae837cc589cd37814"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.4823109200316776,
+      "recall": 0.45780099810210634,
+      "map50": 0.40159919649370035,
+      "map5095": 0.20049168911975132,
+      "checkpoint_sha256": "e47fb4c350651fec50910a794d35ce277f72a3643c5827703a55be07725a0307"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5545709055416201,
+      "recall": 0.45484949832775917,
+      "map50": 0.4681802544129656,
+      "map5095": 0.2294279239861618,
+      "checkpoint_sha256": "e47fb4c350651fec50910a794d35ce277f72a3643c5827703a55be07725a0307"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.5198221780848434,
+      "recall": 0.44173693925790275,
+      "map50": 0.40586501791331014,
+      "map5095": 0.20377969625276723,
+      "checkpoint_sha256": "2f38a3ddf3fab29055bfd87d56cf5ea2f4aee07d6d96c341c95fb9f6318eb147"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.5849657143208109,
+      "recall": 0.4619583077397993,
+      "map50": 0.44844614759953133,
+      "map5095": 0.23030378956573708,
+      "checkpoint_sha256": "2f38a3ddf3fab29055bfd87d56cf5ea2f4aee07d6d96c341c95fb9f6318eb147"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.45568444972031985,
+      "recall": 0.46839080459770116,
+      "map50": 0.4107598114734777,
+      "map5095": 0.20125344538712672,
+      "checkpoint_sha256": "e62e8ac8915cd6382e92128f396c0d982279daa2d6742b981fce2338db968747"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5075247535604155,
+      "recall": 0.4414715719063545,
+      "map50": 0.41589929351065946,
+      "map5095": 0.20159053950484274,
+      "checkpoint_sha256": "e62e8ac8915cd6382e92128f396c0d982279daa2d6742b981fce2338db968747"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.5009507020601407,
+      "recall": 0.45575501467278506,
+      "map50": 0.434422912403152,
+      "map5095": 0.21309432147391788,
+      "checkpoint_sha256": "d0bd91b17f47276d74e6c370ebc2d5a43ff15dd0d3f0a2400c39c5a820e94f70"
+    },
+    {
+      "stage": "after",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.527941118283324,
+      "recall": 0.4525913390114832,
+      "map50": 0.4242922639305309,
+      "map5095": 0.19775304343598554,
+      "checkpoint_sha256": "d0bd91b17f47276d74e6c370ebc2d5a43ff15dd0d3f0a2400c39c5a820e94f70"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.49591592999366374,
+      "recall": 0.5056603773584906,
+      "map50": 0.44944218252177937,
+      "map5095": 0.18240161123054788,
+      "checkpoint_sha256": "7eefcbf53830b487bc712cdc2434f0a61ecb6da7f4033f18ae25e844da3bc300"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4859356661800887,
+      "recall": 0.5056497175141242,
+      "map50": 0.46991249628727194,
+      "map5095": 0.22156249490312446,
+      "checkpoint_sha256": "7eefcbf53830b487bc712cdc2434f0a61ecb6da7f4033f18ae25e844da3bc300"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.47059880390282904,
+      "recall": 0.48303943350651135,
+      "map50": 0.4418269677132058,
+      "map5095": 0.1844886989745268,
+      "checkpoint_sha256": "0a08c77711d252b8c6ac02c29ce5c68897ee04d9d0867ff536e2eeac00741097"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5298506744746307,
+      "recall": 0.4406779661016949,
+      "map50": 0.4462676356485932,
+      "map5095": 0.19984177896780103,
+      "checkpoint_sha256": "0a08c77711d252b8c6ac02c29ce5c68897ee04d9d0867ff536e2eeac00741097"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.47155668604178036,
+      "recall": 0.5094339622641509,
+      "map50": 0.4246972059140689,
+      "map5095": 0.16752985750384347,
+      "checkpoint_sha256": "609418b3550ab099717fd61eed88550c8264de95415656f7182e569fe3246d66"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.6261008927587856,
+      "recall": 0.4463276836158192,
+      "map50": 0.4945198402128102,
+      "map5095": 0.2195265839426807,
+      "checkpoint_sha256": "609418b3550ab099717fd61eed88550c8264de95415656f7182e569fe3246d66"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.5458126207052495,
+      "recall": 0.4830188679245283,
+      "map50": 0.4301525373105775,
+      "map5095": 0.18202067662898685,
+      "checkpoint_sha256": "5d06ba7a36a181ccf34cff9d8162efb5f2a6aa642a5d975749c68c8ca94dd3c9"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.5058662181994664,
+      "recall": 0.5480225988700564,
+      "map50": 0.4815756616642033,
+      "map5095": 0.2168243371998284,
+      "checkpoint_sha256": "5d06ba7a36a181ccf34cff9d8162efb5f2a6aa642a5d975749c68c8ca94dd3c9"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.4244684856635751,
+      "recall": 0.4867924528301887,
+      "map50": 0.42897276075397717,
+      "map5095": 0.177187284600324,
+      "checkpoint_sha256": "6c7a8147d880fe3e3c93ea91613e1c8511d24cbc1dc4c349fc7577a2ed29785a"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5449561981022051,
+      "recall": 0.4717514124293785,
+      "map50": 0.46707700592033696,
+      "map5095": 0.2156032936963288,
+      "checkpoint_sha256": "6c7a8147d880fe3e3c93ea91613e1c8511d24cbc1dc4c349fc7577a2ed29785a"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.42003585920189845,
+      "recall": 0.49056603773584906,
+      "map50": 0.3871519671260581,
+      "map5095": 0.17222609322405164,
+      "checkpoint_sha256": "99a096c9feaa7dbeb160cfcc1dd243cea7dd240e6e67ea78b7d35fdec411fb8a"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.6032367728954964,
+      "recall": 0.5411596746592997,
+      "map50": 0.5063653980285406,
+      "map5095": 0.21362785092636716,
+      "checkpoint_sha256": "99a096c9feaa7dbeb160cfcc1dd243cea7dd240e6e67ea78b7d35fdec411fb8a"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.49333624345205074,
+      "recall": 0.5217564611960497,
+      "map50": 0.4546898274404564,
+      "map5095": 0.1908965500338194,
+      "checkpoint_sha256": "052e96898b162ea131e3f16ee945677841ec8fb227772d2a20b3c25ad34991f7"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4938251905758115,
+      "recall": 0.536723163841808,
+      "map50": 0.45372275005451607,
+      "map5095": 0.19708976646568185,
+      "checkpoint_sha256": "052e96898b162ea131e3f16ee945677841ec8fb227772d2a20b3c25ad34991f7"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.5521472474805063,
+      "recall": 0.474544318927158,
+      "map50": 0.46216317596843814,
+      "map5095": 0.18652988954621896,
+      "checkpoint_sha256": "e2f763b512e05b21ea5adc1dca08a1823ac7671f6293016ae5d05fdb20f01c94"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5591769145566267,
+      "recall": 0.5084745762711864,
+      "map50": 0.5099056968302568,
+      "map5095": 0.22733195782111357,
+      "checkpoint_sha256": "e2f763b512e05b21ea5adc1dca08a1823ac7671f6293016ae5d05fdb20f01c94"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.49180482290506794,
+      "recall": 0.49433962264150944,
+      "map50": 0.3943159921930438,
+      "map5095": 0.1572359121763664,
+      "checkpoint_sha256": "3f3708221e72f5f9d59bca9ac249d90674ef592e51dc17251f5757e8e19fd9c5"
+    },
+    {
+      "stage": "after",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5722824869448282,
+      "recall": 0.5254237288135594,
+      "map50": 0.515516420973447,
+      "map5095": 0.22872672002790612,
+      "checkpoint_sha256": "3f3708221e72f5f9d59bca9ac249d90674ef592e51dc17251f5757e8e19fd9c5"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.628915861784319,
+      "recall": 0.5399780941949617,
+      "map50": 0.573117909083909,
+      "map5095": 0.28874422746697975,
+      "checkpoint_sha256": "6bcae94ae7a3eda18918038897e80534070fba4c70f02987442f0daac5bfb7ab"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.6287044715961023,
+      "recall": 0.5539867109634552,
+      "map50": 0.5686246399917524,
+      "map5095": 0.2998047497531147,
+      "checkpoint_sha256": "6bcae94ae7a3eda18918038897e80534070fba4c70f02987442f0daac5bfb7ab"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.5852205881463085,
+      "recall": 0.5914567360350493,
+      "map50": 0.5836125515736883,
+      "map5095": 0.3002200080955237,
+      "checkpoint_sha256": "632898c779507bd79f1035e9e776ca4e1d0579902891bb94cebbb2051e36a809"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.6105646891349941,
+      "recall": 0.574750830564784,
+      "map50": 0.5609311710051403,
+      "map5095": 0.2865348970338465,
+      "checkpoint_sha256": "632898c779507bd79f1035e9e776ca4e1d0579902891bb94cebbb2051e36a809"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.6290158740995611,
+      "recall": 0.5877724994177864,
+      "map50": 0.5926285602606988,
+      "map5095": 0.30070464253934154,
+      "checkpoint_sha256": "0ce2b981dbaa969121edf75847aeb20bb8fc41ef103859203ae4babbff80d573"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5929586420233888,
+      "recall": 0.5872093023255814,
+      "map50": 0.5883723677701747,
+      "map5095": 0.3214590558932192,
+      "checkpoint_sha256": "0ce2b981dbaa969121edf75847aeb20bb8fc41ef103859203ae4babbff80d573"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.6133288790753351,
+      "recall": 0.5613362541073385,
+      "map50": 0.5705431561652086,
+      "map5095": 0.2885151313514024,
+      "checkpoint_sha256": "760a8ee155d5b8e371dee935315ae0aa4fbf4e1104ca41f70707b583f525c0de"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.6130386928247828,
+      "recall": 0.5697674418604651,
+      "map50": 0.5841850043330046,
+      "map5095": 0.3011240951882369,
+      "checkpoint_sha256": "760a8ee155d5b8e371dee935315ae0aa4fbf4e1104ca41f70707b583f525c0de"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.5671733296660073,
+      "recall": 0.5635268346111719,
+      "map50": 0.5641381794973972,
+      "map5095": 0.2878671876569183,
+      "checkpoint_sha256": "61c939ca2d8c325330a5f443320d31335caba50f86528dbfe2cf20984675289e"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.6211565404713669,
+      "recall": 0.5739202657807309,
+      "map50": 0.5774736364474922,
+      "map5095": 0.2966021997878593,
+      "checkpoint_sha256": "61c939ca2d8c325330a5f443320d31335caba50f86528dbfe2cf20984675289e"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.6143685932298648,
+      "recall": 0.581944710841218,
+      "map50": 0.5884823339981303,
+      "map5095": 0.3019666432544514,
+      "checkpoint_sha256": "94e637218922ea7c32a7435bf6f83fdcd823543751e0b2c3e9bf6c2dfdc8f4d7"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.6017156530648333,
+      "recall": 0.5714285714285714,
+      "map50": 0.5840870160578724,
+      "map5095": 0.3248648939316617,
+      "checkpoint_sha256": "94e637218922ea7c32a7435bf6f83fdcd823543751e0b2c3e9bf6c2dfdc8f4d7"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.6170159002195016,
+      "recall": 0.5744797371303395,
+      "map50": 0.5851174636335054,
+      "map5095": 0.29817149707596313,
+      "checkpoint_sha256": "69d1c218f322c1272a62ab1dea2a19ad1a6d76990f82a35d79c80133ceba4831"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.6607350091279257,
+      "recall": 0.6017344298007864,
+      "map50": 0.6201119187380907,
+      "map5095": 0.3269880980221853,
+      "checkpoint_sha256": "69d1c218f322c1272a62ab1dea2a19ad1a6d76990f82a35d79c80133ceba4831"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.6249041302767927,
+      "recall": 0.5465498357064622,
+      "map50": 0.5543326372552695,
+      "map5095": 0.2828847405602936,
+      "checkpoint_sha256": "b9eff4509b9529bf76e01b56a895672ef43cb3ff72a1c5363c688a034a08c6ce"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.6409746541470855,
+      "recall": 0.5768182678952812,
+      "map50": 0.5873026428550657,
+      "map5095": 0.3150319633295557,
+      "checkpoint_sha256": "b9eff4509b9529bf76e01b56a895672ef43cb3ff72a1c5363c688a034a08c6ce"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.6110603102990131,
+      "recall": 0.5566797000473656,
+      "map50": 0.5596632624434656,
+      "map5095": 0.29036368990310135,
+      "checkpoint_sha256": "156971d3cf694f55acfea1a0fd6e6e0ba302e2570fb2c3399dbd89a39b7086b2"
+    },
+    {
+      "stage": "after",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5703286533017052,
+      "recall": 0.5631229235880398,
+      "map50": 0.5621676181277717,
+      "map5095": 0.29941819388278096,
+      "checkpoint_sha256": "156971d3cf694f55acfea1a0fd6e6e0ba302e2570fb2c3399dbd89a39b7086b2"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.44487790082659956,
+      "recall": 0.41125541125541126,
+      "map50": 0.31843881626389203,
+      "map5095": 0.13966733565739603,
+      "checkpoint_sha256": "1d7641c09ce0f30b9fdeadd6d3fc48a72958ae121493238b8dbb43a4c39152e0"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.5767797314237666,
+      "recall": 0.35789473684210527,
+      "map50": 0.35078741725168183,
+      "map5095": 0.1777886756193558,
+      "checkpoint_sha256": "1d7641c09ce0f30b9fdeadd6d3fc48a72958ae121493238b8dbb43a4c39152e0"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.44449217055860957,
+      "recall": 0.341991341991342,
+      "map50": 0.29056743367109433,
+      "map5095": 0.12532465886310637,
+      "checkpoint_sha256": "e71af7ce29bf9e07a6faf33ad363705d4307803bcdea00077b8efb9fae73fc0d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.3357235009582541,
+      "recall": 0.43157894736842106,
+      "map50": 0.3407087985140353,
+      "map5095": 0.20062700273973638,
+      "checkpoint_sha256": "e71af7ce29bf9e07a6faf33ad363705d4307803bcdea00077b8efb9fae73fc0d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.3336755323216435,
+      "recall": 0.37720555931777444,
+      "map50": 0.2940960220649279,
+      "map5095": 0.12847892631425814,
+      "checkpoint_sha256": "5a1e5bbeb505c674b3ece0d1f1d964b71f6f877fd7f6634694d17969f468ce3c"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.4570978005577049,
+      "recall": 0.40770670388604413,
+      "map50": 0.34086925001463647,
+      "map5095": 0.1580672974196355,
+      "checkpoint_sha256": "5a1e5bbeb505c674b3ece0d1f1d964b71f6f877fd7f6634694d17969f468ce3c"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.4768102028604715,
+      "recall": 0.3748043610220848,
+      "map50": 0.32733299746693567,
+      "map5095": 0.12778638871383824,
+      "checkpoint_sha256": "16e1140d6cf4594a22b6dd8c281c4a78cca50057798b345cbd106566c176b1ed"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.5204985648391051,
+      "recall": 0.30526315789473685,
+      "map50": 0.35385255818380207,
+      "map5095": 0.16982230413358532,
+      "checkpoint_sha256": "16e1140d6cf4594a22b6dd8c281c4a78cca50057798b345cbd106566c176b1ed"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.47434524289584346,
+      "recall": 0.3593073593073593,
+      "map50": 0.3197481573559945,
+      "map5095": 0.13649079697228503,
+      "checkpoint_sha256": "48618e3699ea4b502e2554c2f437bcec7f7118c4909c545e9ecf3e242e7d1ffa"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.3674946745970668,
+      "recall": 0.37894736842105264,
+      "map50": 0.3334226251926082,
+      "map5095": 0.19117603806448874,
+      "checkpoint_sha256": "48618e3699ea4b502e2554c2f437bcec7f7118c4909c545e9ecf3e242e7d1ffa"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.3430347164268646,
+      "recall": 0.39826839826839827,
+      "map50": 0.30552612729982287,
+      "map5095": 0.1281103419975686,
+      "checkpoint_sha256": "7941f0f43aa14c9c0c91068ed1803840499df7965925afc87fc5395bac54815f"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.525262954284198,
+      "recall": 0.4,
+      "map50": 0.3472657354287453,
+      "map5095": 0.1523103956977103,
+      "checkpoint_sha256": "7941f0f43aa14c9c0c91068ed1803840499df7965925afc87fc5395bac54815f"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.46976042422912906,
+      "recall": 0.4025974025974026,
+      "map50": 0.2967952068489641,
+      "map5095": 0.12071372805691438,
+      "checkpoint_sha256": "68a969d9dfccf8f00b038bc3962200fea3bc899477d1b949f20692f20e32cd6b"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4748118980753219,
+      "recall": 0.37117571776465225,
+      "map50": 0.35323049068273304,
+      "map5095": 0.18968522689542505,
+      "checkpoint_sha256": "68a969d9dfccf8f00b038bc3962200fea3bc899477d1b949f20692f20e32cd6b"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.5235751025384942,
+      "recall": 0.4139021926231321,
+      "map50": 0.3332811785582761,
+      "map5095": 0.1404958329590308,
+      "checkpoint_sha256": "f39ba5fabac4c1182b9ac63496797ab35b651bb72670094d995af062efc10d53"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5007085331381229,
+      "recall": 0.37894736842105264,
+      "map50": 0.36090398319371486,
+      "map5095": 0.19756446005220799,
+      "checkpoint_sha256": "f39ba5fabac4c1182b9ac63496797ab35b651bb72670094d995af062efc10d53"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.4967639830149309,
+      "recall": 0.35896161292207357,
+      "map50": 0.33272524654990426,
+      "map5095": 0.14913755272631873,
+      "checkpoint_sha256": "5b09674b837b7ce601747d0c624f9f981ad02917c1fd5fc9a521a3d3822504e9"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.45825041686927126,
+      "recall": 0.3368421052631579,
+      "map50": 0.31279475978314364,
+      "map5095": 0.1901042537483823,
+      "checkpoint_sha256": "5b09674b837b7ce601747d0c624f9f981ad02917c1fd5fc9a521a3d3822504e9"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.3030260449808644,
+      "recall": 0.16279069767441862,
+      "map50": 0.15531602703467481,
+      "map5095": 0.06587765331681414,
+      "checkpoint_sha256": "d216b0e8c64e5e47c491ec34d07fedb9f9aa901faac4521b579b9109c8a6be05"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.418880757319281,
+      "recall": 0.3181818181818182,
+      "map50": 0.26871017055400753,
+      "map5095": 0.11934011045952861,
+      "checkpoint_sha256": "d216b0e8c64e5e47c491ec34d07fedb9f9aa901faac4521b579b9109c8a6be05"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.16399252427774694,
+      "recall": 0.17829457364341086,
+      "map50": 0.06950754492146433,
+      "map5095": 0.025773869100590735,
+      "checkpoint_sha256": "8b139e74c9f9ddf06db45ce2f42d88f4edd9cc53fe3933a7e241676506bcaee0"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.30206960500411867,
+      "recall": 0.2922077922077922,
+      "map50": 0.18823764616118127,
+      "map5095": 0.08216635272531396,
+      "checkpoint_sha256": "8b139e74c9f9ddf06db45ce2f42d88f4edd9cc53fe3933a7e241676506bcaee0"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.15511100610874076,
+      "recall": 0.13953488372093023,
+      "map50": 0.09141437266559432,
+      "map5095": 0.04012596115903121,
+      "checkpoint_sha256": "0c90c6e5244f926d5dc45ccd668f9b9d7013280477e75726f652942e534b1f6d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5671439769836483,
+      "recall": 0.37012987012987014,
+      "map50": 0.3717557474574926,
+      "map5095": 0.14495620933630066,
+      "checkpoint_sha256": "0c90c6e5244f926d5dc45ccd668f9b9d7013280477e75726f652942e534b1f6d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.3159610200109847,
+      "recall": 0.17054263565891473,
+      "map50": 0.16684203767229538,
+      "map5095": 0.06558658497369221,
+      "checkpoint_sha256": "84365ed5979f18d6234943cba6be3771ebf68bf2bdf224c1cd3e3d1b7aa1f57d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.37263825339372764,
+      "recall": 0.33766233766233766,
+      "map50": 0.27363329709237344,
+      "map5095": 0.1174759439379924,
+      "checkpoint_sha256": "84365ed5979f18d6234943cba6be3771ebf68bf2bdf224c1cd3e3d1b7aa1f57d"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.2107192748096587,
+      "recall": 0.13953488372093023,
+      "map50": 0.08310703466829167,
+      "map5095": 0.025872981761231567,
+      "checkpoint_sha256": "b90a2bd9031ff01d2e1a2243b751d31a3b14d9ee0745eb34d47a0e30fedd3e70"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.3576982620608607,
+      "recall": 0.2987012987012987,
+      "map50": 0.22531906265106966,
+      "map5095": 0.07841805672204719,
+      "checkpoint_sha256": "b90a2bd9031ff01d2e1a2243b751d31a3b14d9ee0745eb34d47a0e30fedd3e70"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.13107221889840967,
+      "recall": 0.13178294573643412,
+      "map50": 0.09477278312697048,
+      "map5095": 0.040617310575795526,
+      "checkpoint_sha256": "5d108a52251d0773a3373a19b45471a0e297119560165509226b176e69419acc"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.5388835536706165,
+      "recall": 0.38311688311688313,
+      "map50": 0.36825799138475396,
+      "map5095": 0.14329807821747192,
+      "checkpoint_sha256": "5d108a52251d0773a3373a19b45471a0e297119560165509226b176e69419acc"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.048672566371681415,
+      "recall": 0.17054263565891473,
+      "map50": 0.029010937987260687,
+      "map5095": 0.008843689845351832,
+      "checkpoint_sha256": "bff1b5d67b0de6aa9399eb2310d67d05a194aa22bd127bd2cd0423f9f2b03897"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "val",
+      "precision": 0.4454145809646764,
+      "recall": 0.21428571428571427,
+      "map50": 0.23965230638749901,
+      "map5095": 0.10497041061839738,
+      "checkpoint_sha256": "bff1b5d67b0de6aa9399eb2310d67d05a194aa22bd127bd2cd0423f9f2b03897"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.1701535564915666,
+      "recall": 0.23255813953488372,
+      "map50": 0.11561864057852372,
+      "map5095": 0.053061245794443004,
+      "checkpoint_sha256": "56fd9307715c72354ef655a7edcbe8692bbcc8620573ba10cce1e5e4b589a668"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "val",
+      "precision": 0.5079277608517166,
+      "recall": 0.2987012987012987,
+      "map50": 0.3200412622903986,
+      "map5095": 0.13508006801313405,
+      "checkpoint_sha256": "56fd9307715c72354ef655a7edcbe8692bbcc8620573ba10cce1e5e4b589a668"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.16500617674476178,
+      "recall": 0.13178294573643412,
+      "map50": 0.07266935781508563,
+      "map5095": 0.024892500534500865,
+      "checkpoint_sha256": "8118e9a7b62afc976cd0c9482c627615a0a9fb55d1e6ef4ee8972fe84082b61a"
+    },
+    {
+      "stage": "after",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "val",
+      "precision": 0.4215472066937884,
+      "recall": 0.3181818181818182,
+      "map50": 0.2892877171979127,
+      "map5095": 0.11103274292535874,
+      "checkpoint_sha256": "8118e9a7b62afc976cd0c9482c627615a0a9fb55d1e6ef4ee8972fe84082b61a"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.1032834373953793,
+      "recall": 0.04310344827586207,
+      "map50": 0.05000933817791797,
+      "map5095": 0.010707357984706555,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.08835134253101216,
+      "recall": 0.03735632183908046,
+      "map50": 0.04439718336363314,
+      "map5095": 0.010527024710259587,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.051587301587301584,
+      "recall": 0.03735632183908046,
+      "map50": 0.027370157062349666,
+      "map5095": 0.006199696150412814,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.10103306647806991,
+      "recall": 0.040229885057471264,
+      "map50": 0.047592784906739884,
+      "map5095": 0.01097238523929981,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.07757426589582359,
+      "recall": 0.031609195402298854,
+      "map50": 0.033501455233038095,
+      "map5095": 0.007495239136817516,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.059322033898305086,
+      "recall": 0.040229885057471264,
+      "map50": 0.03165413822641582,
+      "map5095": 0.007092500166694979,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.05714285714285714,
+      "recall": 0.034482758620689655,
+      "map50": 0.031097585034013605,
+      "map5095": 0.007864966919472357,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.08095238095238096,
+      "recall": 0.04885057471264368,
+      "map50": 0.04368586546048782,
+      "map5095": 0.012684268908434812,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f"
+    },
+    {
+      "stage": "before",
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.05317999159040605,
+      "recall": 0.022988505747126436,
+      "map50": 0.019498922629985833,
+      "map5095": 0.0038302287065468807,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.03186507717598986,
+      "recall": 0.018867924528301886,
+      "map50": 0.013876689262456993,
+      "map5095": 0.005224616872914931,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.03587443946188341,
+      "recall": 0.03018867924528302,
+      "map50": 0.019804077968645792,
+      "map5095": 0.00694151300277074,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.025139664804469275,
+      "recall": 0.033962264150943396,
+      "map50": 0.0151654388701351,
+      "map5095": 0.005802771570611225,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.03226062190209476,
+      "recall": 0.018867924528301886,
+      "map50": 0.014614440749457872,
+      "map5095": 0.00526964803006899,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.025171083095656393,
+      "recall": 0.01509433962264151,
+      "map50": 0.012985350678733031,
+      "map5095": 0.0051539059598763775,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.027855153203342618,
+      "recall": 0.03773584905660377,
+      "map50": 0.016866143476382697,
+      "map5095": 0.006174155876902087,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.03291196469150645,
+      "recall": 0.022641509433962263,
+      "map50": 0.013727263845684897,
+      "map5095": 0.005245677977084917,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.0533998818499747,
+      "recall": 0.011320754716981131,
+      "map50": 0.009436465787119855,
+      "map5095": 0.0038138555939001575,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f"
+    },
+    {
+      "stage": "before",
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.040892193308550186,
+      "recall": 0.04150943396226415,
+      "map50": 0.021669963806579953,
+      "map5095": 0.005899445301949692,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.08398950131233596,
+      "recall": 0.017524644030668127,
+      "map50": 0.04277623481438762,
+      "map5095": 0.015559929343417558,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.13262599469496023,
+      "recall": 0.027382256297918947,
+      "map50": 0.07247849606901333,
+      "map5095": 0.028733718662006663,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.09859154929577464,
+      "recall": 0.03066812705366922,
+      "map50": 0.05198307382152333,
+      "map5095": 0.020490202431733797,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.08238636363636363,
+      "recall": 0.01588170865279299,
+      "map50": 0.04186059056761269,
+      "map5095": 0.017100580713369628,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.11904761904761904,
+      "recall": 0.02190580503833516,
+      "map50": 0.06194150632868438,
+      "map5095": 0.02566533536842532,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.10497237569060773,
+      "recall": 0.0312157721796276,
+      "map50": 0.05611078629339353,
+      "map5095": 0.021294994087536545,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.10379746835443038,
+      "recall": 0.022453450164293537,
+      "map50": 0.05508152219091995,
+      "map5095": 0.020862829205327497,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.12550607287449392,
+      "recall": 0.033953997809419496,
+      "map50": 0.0649362087663764,
+      "map5095": 0.02693879602134101,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f"
+    },
+    {
+      "stage": "before",
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.10416666666666667,
+      "recall": 0.024644030668127054,
+      "map50": 0.05375380595681689,
+      "map5095": 0.022426645622683213,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.16983253339378745,
+      "recall": 0.1038961038961039,
+      "map50": 0.09180817017838475,
+      "map5095": 0.01687913211291845,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.18989783729982065,
+      "recall": 0.11255411255411256,
+      "map50": 0.1071107826289394,
+      "map5095": 0.02145738321658882,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.17950648791047769,
+      "recall": 0.1038961038961039,
+      "map50": 0.10228800665679223,
+      "map5095": 0.023239872714153047,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.15672785246348814,
+      "recall": 0.09523809523809523,
+      "map50": 0.08517708333333329,
+      "map5095": 0.01818608590731417,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.17344071681990547,
+      "recall": 0.1038961038961039,
+      "map50": 0.1003302447255201,
+      "map5095": 0.016986456038780566,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.18224641720756665,
+      "recall": 0.10822510822510822,
+      "map50": 0.10544031837104541,
+      "map5095": 0.02219892305546219,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.090489414227748,
+      "recall": 0.05627705627705628,
+      "map50": 0.03939632807351,
+      "map5095": 0.007443745997096972,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.19792286025748812,
+      "recall": 0.10822510822510822,
+      "map50": 0.11521319960085402,
+      "map5095": 0.025903692459615157,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.14950112379348363,
+      "recall": 0.09523809523809523,
+      "map50": 0.05966473417977178,
+      "map5095": 0.007756795833519623,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "sf",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 0,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 1,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f"
+    },
+    {
+      "stage": "before",
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "seed": 2,
+      "split": "test",
+      "precision": 0.0,
+      "recall": 0.0,
+      "map50": 0.0,
+      "map5095": 0.0,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a"
+    }
+  ],
+  "manuscript_updated": false
+}

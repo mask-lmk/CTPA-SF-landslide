@@ -1,0 +1,259 @@
+{
+  "parameters": 2403155,
+  "shapes": [
+    {
+      "index": 0,
+      "type": "Conv",
+      "shape": [
+        1,
+        16,
+        320,
+        320
+      ]
+    },
+    {
+      "index": 1,
+      "type": "Conv",
+      "shape": [
+        1,
+        32,
+        160,
+        160
+      ]
+    },
+    {
+      "index": 2,
+      "type": "C3k2",
+      "shape": [
+        1,
+        64,
+        160,
+        160
+      ]
+    },
+    {
+      "index": 3,
+      "type": "Conv",
+      "shape": [
+        1,
+        64,
+        80,
+        80
+      ]
+    },
+    {
+      "index": 4,
+      "type": "C3k2",
+      "shape": [
+        1,
+        128,
+        80,
+        80
+      ]
+    },
+    {
+      "index": 5,
+      "type": "Conv",
+      "shape": [
+        1,
+        128,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 6,
+      "type": "C3k2",
+      "shape": [
+        1,
+        128,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 7,
+      "type": "Conv",
+      "shape": [
+        1,
+        256,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 8,
+      "type": "CNNTransformerParallel",
+      "shape": [
+        1,
+        256,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 9,
+      "type": "SPPF",
+      "shape": [
+        1,
+        256,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 10,
+      "type": "C2PSA",
+      "shape": [
+        1,
+        256,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 11,
+      "type": "Upsample",
+      "shape": [
+        1,
+        256,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 12,
+      "type": "Concat",
+      "shape": [
+        1,
+        384,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 13,
+      "type": "C3k2",
+      "shape": [
+        1,
+        128,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 14,
+      "type": "Upsample",
+      "shape": [
+        1,
+        128,
+        80,
+        80
+      ]
+    },
+    {
+      "index": 15,
+      "type": "Concat",
+      "shape": [
+        1,
+        256,
+        80,
+        80
+      ]
+    },
+    {
+      "index": 16,
+      "type": "C3k2",
+      "shape": [
+        1,
+        64,
+        80,
+        80
+      ]
+    },
+    {
+      "index": 17,
+      "type": "Conv",
+      "shape": [
+        1,
+        64,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 18,
+      "type": "Concat",
+      "shape": [
+        1,
+        192,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 19,
+      "type": "C3k2",
+      "shape": [
+        1,
+        128,
+        40,
+        40
+      ]
+    },
+    {
+      "index": 20,
+      "type": "Conv",
+      "shape": [
+        1,
+        128,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 21,
+      "type": "Concat",
+      "shape": [
+        1,
+        384,
+        20,
+        20
+      ]
+    },
+    {
+      "index": 22,
+      "type": "C3k2",
+      "shape": [
+        1,
+        256,
+        20,
+        20
+      ]
+    }
+  ],
+  "block": "CNNTransformerParallel(\n  (cv1): Conv2d(256, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)\n  (bn1): BatchNorm2d(128, eps=0.001, momentum=0.03, affine=True, track_running_stats=True)\n  (act1): SiLU(inplace=True)\n  (cnn_branch): Sequential(\n    (0): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=128, bias=False)\n    (1): BatchNorm2d(128, eps=0.001, momentum=0.03, affine=True, track_running_stats=True)\n    (2): SiLU(inplace=True)\n    (3): Conv2d(128, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)\n    (4): BatchNorm2d(128, eps=0.001, momentum=0.03, affine=True, track_running_stats=True)\n    (5): SiLU(inplace=True)\n  )\n  (norm): LayerNorm((128,), eps=1e-05, elementwise_affine=True)\n  (attn): LowRankSelfAttention(\n    (qkv): FactorizedLinear(\n      (first): Linear(in_features=128, out_features=48, bias=False)\n      (second): Linear(in_features=48, out_features=384, bias=True)\n    )\n    (out_proj): NonDynamicallyQuantizableLinear(in_features=128, out_features=128, bias=True)\n  )\n  (ffn): Sequential(\n    (0): FactorizedLinear(\n      (first): Linear(in_features=128, out_features=32, bias=False)\n      (second): Linear(in_features=32, out_features=256, bias=True)\n    )\n    (1): GELU(approximate='none')\n    (2): FactorizedLinear(\n      (first): Linear(in_features=256, out_features=32, bias=False)\n      (second): Linear(in_features=32, out_features=128, bias=True)\n    )\n  )\n  (fuse): Sequential(\n    (0): FactorizedPointwise(\n      (first): Conv2d(256, 80, kernel_size=(1, 1), stride=(1, 1), bias=False)\n      (second): Conv2d(80, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)\n    )\n    (1): BatchNorm2d(256, eps=0.001, momentum=0.03, affine=True, track_running_stats=True)\n    (2): SiLU(inplace=True)\n  )\n  (shortcut): Identity()\n)",
+  "checks": {
+    "factorized_parameters": 2403155,
+    "dense_ctpa_parameters": 2493267,
+    "qkv_weight_saving": 24576,
+    "ffn_weight_saving": 40960,
+    "fusion_weight_saving": 24576,
+    "total_saving": 90112,
+    "head_dimension": 32,
+    "qkv_rank": 48,
+    "ffn_rank": 32,
+    "fusion_rank": 80,
+    "fusion_dimensions": [
+      256,
+      80,
+      256
+    ],
+    "neck_P5_skip_destination": "Concat node21 before C3k2 node22",
+    "forward_shapes_checked": true
+  },
+  "plot_code_sha256": {
+    "draw_current_sf_figures.py": "4194a2a809292c01ab8dc35d21e524f3dc650afb9a8fb146bf5288155bc4af22",
+    "current_sf_visual_evidence.py": "e476358ab4e031b0d79b4179600cc785009a2a0daad71e81301544708240e7da"
+  }
+}

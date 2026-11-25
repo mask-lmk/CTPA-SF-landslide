@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-11-23T10:09:30+08:00",
+  "source": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122",
+  "data": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\dataset\\bijie_benchmark.yaml",
+  "variants": {
+    "sf_lr_balanced": {
+      "qkv_rank": 64,
+      "ffn_rank": 32,
+      "fusion_rank": 96
+    },
+    "sf_lr_attention_full": {
+      "qkv_rank": null,
+      "ffn_rank": 32,
+      "fusion_rank": 64
+    },
+    "sf_lr_aggressive": {
+      "qkv_rank": 48,
+      "ffn_rank": 32,
+      "fusion_rank": 80
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "code_sha256": {
+    "sf_lowrank.py": "f11162a5cb684f46dd6d7ccb0a74662fdf6bed4a8c615bb00281359dad835388",
+    "sf_lowrank_study.py": "7b740243a6bb3273cc15470d24623299230dd04a068294eccef2460c5f4be3ab"
+  },
+  "screening": "Nine validation-only evaluations, three variants x three source seeds. Select ONE variant by mean validation AP50-95; no test metrics read.",
+  "recovery": "Selected variant and uncompressed CTPA each receive 200 additional supervised train-only epochs per seed, same optimizer/data/augmentations. Fresh AdamW1e-4, warmup_bias_lr1e-4, cosine lrf.01, batch8,640,patience0. Original lowrank initial checkpoint and original teacher remain eligible if continued training does not improve validation fitness.",
+  "selection": "Best within-run checkpoint from validation .1AP50+.9AP50-95; then choose initial versus recovered checkpoint by the same FP32 validation fitness. Freeze all six final choices before a single final test phase. No subsequent test-directed search.",
+  "scope": "New compressed-CTPA variant, not the historical SharedFormer implementation. SVD and low-rank factorization are established methods; no novelty or accuracy guarantee. Source teachers were already trained200epochs; report both teacher training and additional recovery cost. Existing source test previously inspected, so any later confirmation remains exploratory.",
+  "publication_use": false,
+  "main_goal": "Fewer parameters than both historical SF and CTPA; seek validation gains over both. Validation gains alone do not prove held-out-test improvement.",
+  "finalized_before_first_validation": "2026-11-23T10:10:31+08:00"
+}

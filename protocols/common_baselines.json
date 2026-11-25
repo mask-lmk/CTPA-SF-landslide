@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-11-25T10:10:48+08:00",
+  "models": [
+    "yolov8n",
+    "yolov10n"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "data": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\dataset\\bijie_benchmark.yaml",
+  "epochs": 200,
+  "patience": 0,
+  "batch": 8,
+  "imgsz": 640,
+  "optimizer": "AdamW",
+  "lr0": 0.001,
+  "lrf": 0.01,
+  "cos_lr": true,
+  "weight_decay": 0.0005,
+  "momentum": 0.937,
+  "warmup_epochs": 3,
+  "nbs": 64,
+  "amp": true,
+  "deterministic": true,
+  "workers": 0,
+  "augmentation": "Existing train-only horizontal flip once:537 originals ->1074; no online augmentation; validation158/test75 unchanged",
+  "initialization": "Respective official COCO pretrained models, locally cached; checkpoint hashes frozen",
+  "selection": "Target-free Bijie validation fitness selects best; evaluate fixed Bijie test once per trained model",
+  "scope": "Same grouped split and200epoch protocol as original YOLO11n. CTPA continuation and compressed SF recovery use extra source training and must be disclosed.",
+  "checksums_sha256": "1bb83b963fd55bb7e993b4f5dec75dee0d5dde0922d137127af66dcc20fdad44"
+}

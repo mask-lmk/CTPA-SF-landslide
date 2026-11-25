@@ -1,0 +1,258 @@
+{
+  "created_at": "2026-11-23T18:22:28+08:00",
+  "datasets": [
+    {
+      "dataset": "jiuzhai_05",
+      "raw_subdataset_images": 1752,
+      "registered_component": 9,
+      "registered_component_images": 798,
+      "excluded_other_components": 954,
+      "excluded_buffer": 101,
+      "counts": {
+        "train": 456,
+        "val": 100,
+        "test": 141
+      },
+      "instances": {
+        "train": 1101,
+        "val": 299,
+        "test": 348
+      },
+      "axis": "y",
+      "cut_positions": [
+        7680.0,
+        9984.0
+      ],
+      "minimum_rectangle_gaps_pixels": {
+        "train_to_val": 512,
+        "val_to_test": 512,
+        "train_to_test": 2816
+      },
+      "policy": "Largest verified connected component, longest axis, count quantiles 60/80%, +/-512px centre exclusion around both cuts. Selected on registration/counts only, not model performance.",
+      "scope": "Reconstructed relative-pixel spatial bands, no world coordinate/site independence claim. Excluded components and buffers are not fine-tuning or test inputs."
+    },
+    {
+      "dataset": "moxi_02",
+      "raw_subdataset_images": 1635,
+      "registered_component": 8,
+      "registered_component_images": 781,
+      "excluded_other_components": 854,
+      "excluded_buffer": 140,
+      "counts": {
+        "train": 436,
+        "val": 68,
+        "test": 137
+      },
+      "instances": {
+        "train": 684,
+        "val": 95,
+        "test": 231
+      },
+      "axis": "y",
+      "cut_positions": [
+        12288.0,
+        13824.0
+      ],
+      "minimum_rectangle_gaps_pixels": {
+        "train_to_val": 512,
+        "val_to_test": 512,
+        "train_to_test": 2048
+      },
+      "policy": "Largest verified connected component, longest axis, count quantiles 60/80%, +/-512px centre exclusion around both cuts. Selected on registration/counts only, not model performance.",
+      "scope": "Reconstructed relative-pixel spatial bands, no world coordinate/site independence claim. Excluded components and buffers are not fine-tuning or test inputs."
+    },
+    {
+      "dataset": "moxi_1",
+      "counts": {
+        "train": 68,
+        "val": 23,
+        "test": 17
+      },
+      "instances": {
+        "train": 700,
+        "val": 154,
+        "test": 129
+      },
+      "axis": "y",
+      "cuts": [
+        2816.0,
+        4134.4000000000015
+      ],
+      "quantiles": [
+        0.5,
+        0.85
+      ],
+      "excluded_buffer": 52,
+      "minimum_rectangle_gaps_pixels": {
+        "train_to_val": 512,
+        "val_to_test": 768,
+        "train_to_test": 2048
+      },
+      "selection": "Count-only search across declared quantile grid, minimum train40/val15/test15, 512px centre buffers, no model score used",
+      "limitation": "Very small exploratory test subset; reconstructed relative positions, no world georeferencing. Moxi resolutions are the same region and separately adapted, not independent geographic replications."
+    },
+    {
+      "dataset": "mengdong_05",
+      "counts": {
+        "train": 649,
+        "val": 154,
+        "test": 192
+      },
+      "instances": {
+        "train": 3747,
+        "val": 1204,
+        "test": 1826
+      },
+      "axis": "x",
+      "cuts": [
+        2048.0,
+        4608.0
+      ],
+      "quantiles": [
+        0.6,
+        0.8
+      ],
+      "excluded_other_components": 0,
+      "excluded_buffer": 160,
+      "minimum_rectangle_gaps_pixels": {
+        "train_to_val": 512,
+        "val_to_test": 512,
+        "train_to_test": 3072
+      },
+      "selection": "Longest axis 60/80 percent count quantiles",
+      "limitation": "Relative pixel registration within largest component; no independently verified world/site distances."
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "counts": {
+        "train": 567,
+        "val": 170,
+        "test": 159
+      },
+      "instances": {
+        "train": 1303,
+        "val": 354,
+        "test": 265
+      },
+      "axis": "y",
+      "cuts": [
+        11520.0,
+        15104.0
+      ],
+      "quantiles": [
+        0.6,
+        0.8
+      ],
+      "excluded_other_components": 787,
+      "excluded_buffer": 86,
+      "minimum_rectangle_gaps_pixels": {
+        "train_to_val": 512,
+        "val_to_test": 512,
+        "train_to_test": 4096
+      },
+      "selection": "Longest axis 60/80 percent count quantiles",
+      "limitation": "Relative pixel registration within largest component; no independently verified world/site distances."
+    }
+  ],
+  "checkpoints": [
+    {
+      "model": "yolo11n",
+      "seed": 0,
+      "path": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\runs\\yolo11n_seed0\\weights\\best.pt",
+      "sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "implementation": "YOLO11n original200",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "model": "ctpa",
+      "seed": 0,
+      "path": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\ctpa_control_seed0\\weights\\best.pt",
+      "sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "model": "sf",
+      "seed": 0,
+      "path": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed0\\weights\\best.pt",
+      "sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "implementation": "sf_lr_aggressive",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "model": "yolo11n",
+      "seed": 1,
+      "path": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\runs\\yolo11n_seed1\\weights\\best.pt",
+      "sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "implementation": "YOLO11n original200",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "model": "ctpa",
+      "seed": 1,
+      "path": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\runs\\ctpa_seed1\\weights\\best.pt",
+      "sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "model": "sf",
+      "seed": 1,
+      "path": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed1\\weights\\best.pt",
+      "sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "implementation": "sf_lr_aggressive",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "model": "yolo11n",
+      "seed": 2,
+      "path": "${PROJECT_ROOT}\\revision_work\\bijie_grouped_positive_to_mld_20261122\\runs\\yolo11n_seed2\\weights\\best.pt",
+      "sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "implementation": "YOLO11n original200",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "model": "ctpa",
+      "seed": 2,
+      "path": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\ctpa_control_seed2\\weights\\best.pt",
+      "sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "model": "sf",
+      "seed": 2,
+      "path": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed2\\weights\\best.pt",
+      "sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "implementation": "sf_lr_aggressive",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    }
+  ],
+  "epochs": 200,
+  "batch": 8,
+  "imgsz": 640,
+  "models": [
+    "yolo11n",
+    "ctpa",
+    "sf"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "optimizer": "AdamW",
+  "lr0": 0.0001,
+  "lrf": 0.01,
+  "cos_lr": true,
+  "warmup_bias_lr": 0.0001,
+  "weight_decay": 0.0005,
+  "warmup_epochs": 3,
+  "patience": 0,
+  "augmentation": "TRAIN ONLY: fliplr .5, hsv .01/.2/.15, translate .1, scale .3, mosaic .25, close_mosaic20; no vertical flip/mixup/rotation",
+  "selection": "Target validation fitness .1 AP50 + .9 AP50-95; frozen test evaluates source before and adapted best after on identical subset",
+  "architecture": "preserving_trainer used for all models; SF is sf_lr_aggressive (2403155 params), not historical SharedFormer",
+  "scope": "Exploratory target adaptation, NOT zero-shot or previously untouched external validation. Largest registered components with >=512px rectangle gaps; no absolute geographic independence claim. Moxi resolutions not independent regions. Positive-only images. Source model training budgets differ as recorded in checkpoints.",
+  "code_sha256": "b46c02e349331a7263138f95af70a0f2a030f81da2e78b67b3956d4efb804868",
+  "input_checksums_sha256": "f5a2fb61eb59da64b1c125238344f144f6baa0e84a9f3c4d4e4e41b53e2caf49"
+}

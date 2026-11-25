@@ -1,0 +1,5130 @@
+[
+  {
+    "id": "moxizheng_0.2m_UAV0179",
+    "split": "train",
+    "component": 8,
+    "x": 0,
+    "y": 0,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0180",
+    "split": "train",
+    "component": 8,
+    "x": 256,
+    "y": 0,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0181",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 0,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0191",
+    "split": "train",
+    "component": 8,
+    "x": 0,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0192",
+    "split": "train",
+    "component": 8,
+    "x": 256,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0193",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0194",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0195",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0205",
+    "split": "train",
+    "component": 8,
+    "x": 0,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0206",
+    "split": "train",
+    "component": 8,
+    "x": 256,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0207",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0208",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0209",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0220",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 768,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0221",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 768,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0229",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0230",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0231",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0240",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0241",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0242",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0252",
+    "split": "train",
+    "component": 8,
+    "x": 512,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0253",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 1536,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0254",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 1536,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0255",
+    "split": "train",
+    "component": 8,
+    "x": 1280,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0257",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0272",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0273",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0274",
+    "split": "train",
+    "component": 8,
+    "x": 1280,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0275",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0276",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0277",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 1792,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0297",
+    "split": "train",
+    "component": 8,
+    "x": 768,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0298",
+    "split": "train",
+    "component": 8,
+    "x": 1024,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0299",
+    "split": "train",
+    "component": 8,
+    "x": 1280,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0300",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0301",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0302",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0303",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0304",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0305",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0326",
+    "split": "train",
+    "component": 8,
+    "x": 1280,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0327",
+    "split": "train",
+    "component": 8,
+    "x": 1536,
+    "y": 2304,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0328",
+    "split": "train",
+    "component": 8,
+    "x": 1792,
+    "y": 2304,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0329",
+    "split": "train",
+    "component": 8,
+    "x": 2048,
+    "y": 2304,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0330",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0331",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 2304,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0332",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 2304,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0333",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0334",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0335",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0359",
+    "split": "train",
+    "component": 8,
+    "x": 1280,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0360",
+    "split": "train",
+    "component": 8,
+    "x": 1536,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0361",
+    "split": "train",
+    "component": 8,
+    "x": 1792,
+    "y": 2560,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0362",
+    "split": "train",
+    "component": 8,
+    "x": 2048,
+    "y": 2560,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0363",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0364",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0365",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0366",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0367",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0368",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0369",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0393",
+    "split": "train",
+    "component": 8,
+    "x": 1536,
+    "y": 2816,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0394",
+    "split": "train",
+    "component": 8,
+    "x": 1792,
+    "y": 2816,
+    "instances": 5
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0395",
+    "split": "train",
+    "component": 8,
+    "x": 2048,
+    "y": 2816,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0396",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0397",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0398",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 2816,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0399",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 2816,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0400",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 2816,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0401",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 2816,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0422",
+    "split": "train",
+    "component": 8,
+    "x": 1792,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0423",
+    "split": "train",
+    "component": 8,
+    "x": 2048,
+    "y": 3072,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0424",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0425",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0426",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0427",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 3072,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0428",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 3072,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0429",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 3072,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0430",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0440",
+    "split": "train",
+    "component": 8,
+    "x": 1792,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0441",
+    "split": "train",
+    "component": 8,
+    "x": 2048,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0442",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0443",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0444",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0445",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0446",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 3328,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0447",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0448",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0453",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0454",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0455",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0456",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0457",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0462",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 3840,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0463",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0464",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0465",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0466",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0467",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0468",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0473",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0474",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0475",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0476",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0477",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0478",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0485",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0486",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0487",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0488",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0489",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0490",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0491",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0493",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0501",
+    "split": "train",
+    "component": 8,
+    "x": 2304,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0502",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0503",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0504",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0505",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0506",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0507",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0508",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0509",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0517",
+    "split": "train",
+    "component": 8,
+    "x": 2560,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0518",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0519",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0520",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0521",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0522",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0523",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0524",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0525",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0536",
+    "split": "train",
+    "component": 8,
+    "x": 2816,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0537",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0538",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 5120,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0539",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0540",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0541",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0542",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0543",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 5120,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0544",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0545",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 5120,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0554",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 5376,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0555",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0556",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0557",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0558",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0559",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0560",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0561",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0562",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 5376,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0563",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 5376,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0580",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0581",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0582",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0583",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0584",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0585",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0586",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0587",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0588",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0603",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0604",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 5888,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0605",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 5888,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0606",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 5888,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0607",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0608",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0609",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0624",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 6144,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0625",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0626",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0627",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0628",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0629",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0630",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 6144,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0631",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0646",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0647",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0648",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0649",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0650",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0651",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0652",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 6400,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0653",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0655",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0656",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0672",
+    "split": "train",
+    "component": 8,
+    "x": 4096,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0673",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0674",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0675",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0676",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0677",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0678",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0679",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0680",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0682",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0683",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0684",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0700",
+    "split": "train",
+    "component": 8,
+    "x": 4352,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0701",
+    "split": "train",
+    "component": 8,
+    "x": 4608,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0702",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0703",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0704",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0705",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0706",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0707",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0708",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0709",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0710",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0724",
+    "split": "train",
+    "component": 8,
+    "x": 4864,
+    "y": 7168,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0725",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 7168,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0726",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 7168,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0727",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 7168,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0728",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 7168,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0729",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 7168,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0730",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 7168,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0731",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 7168,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0732",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 7168,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0748",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 7424,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0749",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 7424,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0750",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 7424,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0751",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 7424,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0752",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 7424,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0753",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 7424,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0754",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 7424,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0755",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 7424,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0774",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 7680,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0775",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 7680,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0776",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 7680,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0777",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 7680,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0778",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 7680,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0779",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 7680,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0799",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0800",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0801",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0802",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0803",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0804",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0805",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0806",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0807",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0808",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0809",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0825",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0826",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0827",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0828",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0829",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0830",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0831",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0832",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0833",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0834",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0835",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0836",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0845",
+    "split": "train",
+    "component": 8,
+    "x": 5120,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0846",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0847",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0848",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0849",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0850",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0851",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0852",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0853",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0854",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0855",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0856",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0857",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0858",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0859",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 8448,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0860",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 8448,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0861",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 8448,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0862",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0870",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0871",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0872",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0873",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0874",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0875",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0876",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 8704,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0877",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 8704,
+    "instances": 5
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0878",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0879",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0880",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0881",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0882",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 8704,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0883",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0884",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0885",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 8704,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0886",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0894",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 8960,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0895",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0896",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0897",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0898",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0899",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 8960,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0900",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0901",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0902",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0903",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0904",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0905",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 8960,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0906",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0912",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0913",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0914",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0915",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 9216,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0916",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 9216,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0917",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0918",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0919",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 9216,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0927",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 9472,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0928",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 9472,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0929",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 9472,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0930",
+    "split": "train",
+    "component": 8,
+    "x": 9984,
+    "y": 9472,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0931",
+    "split": "train",
+    "component": 8,
+    "x": 10240,
+    "y": 9472,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0941",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0942",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0943",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 9728,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0944",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0945",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0946",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0947",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0948",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0949",
+    "split": "train",
+    "component": 8,
+    "x": 9984,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0950",
+    "split": "train",
+    "component": 8,
+    "x": 10240,
+    "y": 9728,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0959",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0960",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0961",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0962",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 9984,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0963",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0964",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0965",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0966",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0967",
+    "split": "train",
+    "component": 8,
+    "x": 9984,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0968",
+    "split": "train",
+    "component": 8,
+    "x": 10240,
+    "y": 9984,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0973",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0974",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0975",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0976",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 10240,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0977",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0978",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 10240,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0979",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0980",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0981",
+    "split": "train",
+    "component": 8,
+    "x": 9984,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0982",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0983",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0987",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0988",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0989",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0990",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0991",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0992",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0993",
+    "split": "train",
+    "component": 8,
+    "x": 9728,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0994",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0995",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0996",
+    "split": "train",
+    "component": 8,
+    "x": 11520,
+    "y": 10496,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0997",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0998",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV0999",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 10752,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1000",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 10752,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1001",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1002",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1003",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1004",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 10752,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1005",
+    "split": "train",
+    "component": 8,
+    "x": 11520,
+    "y": 10752,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1006",
+    "split": "train",
+    "component": 8,
+    "x": 11776,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1007",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1008",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1009",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1010",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1011",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1012",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1013",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1014",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1015",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1016",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1017",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1019",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1020",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1021",
+    "split": "train",
+    "component": 8,
+    "x": 11520,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1022",
+    "split": "train",
+    "component": 8,
+    "x": 11776,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1023",
+    "split": "train",
+    "component": 8,
+    "x": 12032,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1026",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1027",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1028",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 11264,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1029",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1030",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1031",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1032",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1033",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1034",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1035",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1036",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1037",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1038",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1039",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1040",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1041",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1043",
+    "split": "train",
+    "component": 8,
+    "x": 10496,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1044",
+    "split": "train",
+    "component": 8,
+    "x": 10752,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1045",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1046",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1047",
+    "split": "train",
+    "component": 8,
+    "x": 11520,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1048",
+    "split": "train",
+    "component": 8,
+    "x": 11776,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1049",
+    "split": "train",
+    "component": 8,
+    "x": 12032,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1050",
+    "split": "train",
+    "component": 8,
+    "x": 3072,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1051",
+    "split": "train",
+    "component": 8,
+    "x": 3328,
+    "y": 11520,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1052",
+    "split": "train",
+    "component": 8,
+    "x": 3584,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1053",
+    "split": "train",
+    "component": 8,
+    "x": 3840,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1054",
+    "split": "train",
+    "component": 8,
+    "x": 5376,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1055",
+    "split": "train",
+    "component": 8,
+    "x": 5632,
+    "y": 11520,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1056",
+    "split": "train",
+    "component": 8,
+    "x": 5888,
+    "y": 11520,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1057",
+    "split": "train",
+    "component": 8,
+    "x": 6144,
+    "y": 11520,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1058",
+    "split": "train",
+    "component": 8,
+    "x": 6400,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1059",
+    "split": "train",
+    "component": 8,
+    "x": 6656,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1060",
+    "split": "train",
+    "component": 8,
+    "x": 6912,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1061",
+    "split": "train",
+    "component": 8,
+    "x": 7168,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1062",
+    "split": "train",
+    "component": 8,
+    "x": 7424,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1063",
+    "split": "train",
+    "component": 8,
+    "x": 7680,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1064",
+    "split": "train",
+    "component": 8,
+    "x": 7936,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1065",
+    "split": "train",
+    "component": 8,
+    "x": 8192,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1066",
+    "split": "train",
+    "component": 8,
+    "x": 8448,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1067",
+    "split": "train",
+    "component": 8,
+    "x": 8704,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1068",
+    "split": "train",
+    "component": 8,
+    "x": 8960,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1069",
+    "split": "train",
+    "component": 8,
+    "x": 9216,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1070",
+    "split": "train",
+    "component": 8,
+    "x": 9472,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1072",
+    "split": "train",
+    "component": 8,
+    "x": 10240,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1073",
+    "split": "train",
+    "component": 8,
+    "x": 10496,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1074",
+    "split": "train",
+    "component": 8,
+    "x": 10752,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1075",
+    "split": "train",
+    "component": 8,
+    "x": 11008,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1076",
+    "split": "train",
+    "component": 8,
+    "x": 11264,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1077",
+    "split": "train",
+    "component": 8,
+    "x": 11520,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1078",
+    "split": "train",
+    "component": 8,
+    "x": 11776,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1079",
+    "split": "train",
+    "component": 8,
+    "x": 12032,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1189",
+    "split": "val",
+    "component": 8,
+    "x": 2560,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1190",
+    "split": "val",
+    "component": 8,
+    "x": 2816,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1191",
+    "split": "val",
+    "component": 8,
+    "x": 3072,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1192",
+    "split": "val",
+    "component": 8,
+    "x": 3328,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1193",
+    "split": "val",
+    "component": 8,
+    "x": 3584,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1194",
+    "split": "val",
+    "component": 8,
+    "x": 4352,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1195",
+    "split": "val",
+    "component": 8,
+    "x": 4608,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1196",
+    "split": "val",
+    "component": 8,
+    "x": 4864,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1197",
+    "split": "val",
+    "component": 8,
+    "x": 5120,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1198",
+    "split": "val",
+    "component": 8,
+    "x": 5376,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1199",
+    "split": "val",
+    "component": 8,
+    "x": 5632,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1200",
+    "split": "val",
+    "component": 8,
+    "x": 5888,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1201",
+    "split": "val",
+    "component": 8,
+    "x": 6144,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1202",
+    "split": "val",
+    "component": 8,
+    "x": 8448,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1203",
+    "split": "val",
+    "component": 8,
+    "x": 8704,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1204",
+    "split": "val",
+    "component": 8,
+    "x": 8960,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1205",
+    "split": "val",
+    "component": 8,
+    "x": 9216,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1206",
+    "split": "val",
+    "component": 8,
+    "x": 9472,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1207",
+    "split": "val",
+    "component": 8,
+    "x": 9984,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1208",
+    "split": "val",
+    "component": 8,
+    "x": 10240,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1209",
+    "split": "val",
+    "component": 8,
+    "x": 10496,
+    "y": 12544,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1210",
+    "split": "val",
+    "component": 8,
+    "x": 10752,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1211",
+    "split": "val",
+    "component": 8,
+    "x": 11008,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1212",
+    "split": "val",
+    "component": 8,
+    "x": 11264,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1213",
+    "split": "val",
+    "component": 8,
+    "x": 11520,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1214",
+    "split": "val",
+    "component": 8,
+    "x": 11776,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1215",
+    "split": "val",
+    "component": 8,
+    "x": 12032,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1216",
+    "split": "val",
+    "component": 8,
+    "x": 12288,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1221",
+    "split": "val",
+    "component": 8,
+    "x": 4352,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1222",
+    "split": "val",
+    "component": 8,
+    "x": 4608,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1223",
+    "split": "val",
+    "component": 8,
+    "x": 4864,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1224",
+    "split": "val",
+    "component": 8,
+    "x": 5120,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1225",
+    "split": "val",
+    "component": 8,
+    "x": 5376,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1226",
+    "split": "val",
+    "component": 8,
+    "x": 5632,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1227",
+    "split": "val",
+    "component": 8,
+    "x": 5888,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1228",
+    "split": "val",
+    "component": 8,
+    "x": 6144,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1229",
+    "split": "val",
+    "component": 8,
+    "x": 8448,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1230",
+    "split": "val",
+    "component": 8,
+    "x": 8704,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1231",
+    "split": "val",
+    "component": 8,
+    "x": 8960,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1232",
+    "split": "val",
+    "component": 8,
+    "x": 9216,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1233",
+    "split": "val",
+    "component": 8,
+    "x": 9472,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1235",
+    "split": "val",
+    "component": 8,
+    "x": 10240,
+    "y": 12800,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1236",
+    "split": "val",
+    "component": 8,
+    "x": 10496,
+    "y": 12800,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1237",
+    "split": "val",
+    "component": 8,
+    "x": 10752,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1238",
+    "split": "val",
+    "component": 8,
+    "x": 11008,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1239",
+    "split": "val",
+    "component": 8,
+    "x": 11264,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1240",
+    "split": "val",
+    "component": 8,
+    "x": 11520,
+    "y": 12800,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1241",
+    "split": "val",
+    "component": 8,
+    "x": 11776,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1242",
+    "split": "val",
+    "component": 8,
+    "x": 12032,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1243",
+    "split": "val",
+    "component": 8,
+    "x": 12288,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1250",
+    "split": "val",
+    "component": 8,
+    "x": 4608,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1251",
+    "split": "val",
+    "component": 8,
+    "x": 4864,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1252",
+    "split": "val",
+    "component": 8,
+    "x": 5120,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1253",
+    "split": "val",
+    "component": 8,
+    "x": 5376,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1254",
+    "split": "val",
+    "component": 8,
+    "x": 5632,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1255",
+    "split": "val",
+    "component": 8,
+    "x": 5888,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1256",
+    "split": "val",
+    "component": 8,
+    "x": 6144,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1259",
+    "split": "val",
+    "component": 8,
+    "x": 8448,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1260",
+    "split": "val",
+    "component": 8,
+    "x": 8704,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1261",
+    "split": "val",
+    "component": 8,
+    "x": 8960,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1262",
+    "split": "val",
+    "component": 8,
+    "x": 9216,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1263",
+    "split": "val",
+    "component": 8,
+    "x": 9472,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1264",
+    "split": "val",
+    "component": 8,
+    "x": 9728,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1265",
+    "split": "val",
+    "component": 8,
+    "x": 10752,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1266",
+    "split": "val",
+    "component": 8,
+    "x": 11008,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1267",
+    "split": "val",
+    "component": 8,
+    "x": 11264,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1268",
+    "split": "val",
+    "component": 8,
+    "x": 11520,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1269",
+    "split": "val",
+    "component": 8,
+    "x": 11776,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1358",
+    "split": "test",
+    "component": 8,
+    "x": 7936,
+    "y": 14080,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1359",
+    "split": "test",
+    "component": 8,
+    "x": 8192,
+    "y": 14080,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1360",
+    "split": "test",
+    "component": 8,
+    "x": 8448,
+    "y": 14080,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1361",
+    "split": "test",
+    "component": 8,
+    "x": 9216,
+    "y": 14080,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1362",
+    "split": "test",
+    "component": 8,
+    "x": 9472,
+    "y": 14080,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1363",
+    "split": "test",
+    "component": 8,
+    "x": 9728,
+    "y": 14080,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1364",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 14080,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1365",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 14080,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1366",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 14080,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1381",
+    "split": "test",
+    "component": 8,
+    "x": 7936,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1382",
+    "split": "test",
+    "component": 8,
+    "x": 8192,
+    "y": 14336,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1383",
+    "split": "test",
+    "component": 8,
+    "x": 8448,
+    "y": 14336,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1384",
+    "split": "test",
+    "component": 8,
+    "x": 8704,
+    "y": 14336,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1385",
+    "split": "test",
+    "component": 8,
+    "x": 9216,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1386",
+    "split": "test",
+    "component": 8,
+    "x": 9472,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1387",
+    "split": "test",
+    "component": 8,
+    "x": 9728,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1388",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1389",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 14336,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1390",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 14336,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1391",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 14336,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1406",
+    "split": "test",
+    "component": 8,
+    "x": 7936,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1407",
+    "split": "test",
+    "component": 8,
+    "x": 8192,
+    "y": 14592,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1408",
+    "split": "test",
+    "component": 8,
+    "x": 8448,
+    "y": 14592,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1409",
+    "split": "test",
+    "component": 8,
+    "x": 8704,
+    "y": 14592,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1410",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1411",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 14592,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1412",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 14592,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1413",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1414",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1415",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1416",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 14592,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1426",
+    "split": "test",
+    "component": 8,
+    "x": 8192,
+    "y": 14848,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1427",
+    "split": "test",
+    "component": 8,
+    "x": 8448,
+    "y": 14848,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1428",
+    "split": "test",
+    "component": 8,
+    "x": 8704,
+    "y": 14848,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1429",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1430",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1431",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1432",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1433",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 14848,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1434",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1435",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 14848,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1441",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 15104,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1442",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 15104,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1443",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 15104,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1444",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 15104,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1445",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 15104,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1446",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 15104,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1447",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 15104,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1455",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 15360,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1456",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 15360,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1457",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 15360,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1458",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 15360,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1459",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 15360,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1460",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 15360,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1461",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 15360,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1462",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 15360,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1470",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 15616,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1471",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 15616,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1472",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 15616,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1473",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 15616,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1474",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 15616,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1475",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 15616,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1476",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 15616,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1484",
+    "split": "test",
+    "component": 8,
+    "x": 9984,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1485",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 15872,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1486",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 15872,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1487",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 15872,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1488",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1489",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1490",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1491",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1492",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1493",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 15872,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1494",
+    "split": "test",
+    "component": 8,
+    "x": 12800,
+    "y": 15872,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1495",
+    "split": "test",
+    "component": 8,
+    "x": 13056,
+    "y": 15872,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1496",
+    "split": "test",
+    "component": 8,
+    "x": 13312,
+    "y": 15872,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1501",
+    "split": "test",
+    "component": 8,
+    "x": 9984,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1502",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1503",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1504",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 16128,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1505",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 16128,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1506",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1507",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1508",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1509",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1510",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1511",
+    "split": "test",
+    "component": 8,
+    "x": 12544,
+    "y": 16128,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1512",
+    "split": "test",
+    "component": 8,
+    "x": 12800,
+    "y": 16128,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1513",
+    "split": "test",
+    "component": 8,
+    "x": 13056,
+    "y": 16128,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1524",
+    "split": "test",
+    "component": 8,
+    "x": 9984,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1525",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 16384,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1526",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 16384,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1527",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 16384,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1528",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 16384,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1529",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1530",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1531",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1532",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1533",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1534",
+    "split": "test",
+    "component": 8,
+    "x": 12544,
+    "y": 16384,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1535",
+    "split": "test",
+    "component": 8,
+    "x": 12800,
+    "y": 16384,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1536",
+    "split": "test",
+    "component": 8,
+    "x": 13056,
+    "y": 16384,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1547",
+    "split": "test",
+    "component": 8,
+    "x": 9984,
+    "y": 16640,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1548",
+    "split": "test",
+    "component": 8,
+    "x": 10240,
+    "y": 16640,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1549",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 16640,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1550",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 16640,
+    "instances": 4
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1551",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 16640,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1552",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 16640,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1553",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 16640,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1554",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 16640,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1555",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 16640,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1556",
+    "split": "test",
+    "component": 8,
+    "x": 12544,
+    "y": 16640,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1567",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 16896,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1568",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 16896,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1569",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 16896,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1570",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 16896,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1572",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 16896,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1573",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 16896,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1574",
+    "split": "test",
+    "component": 8,
+    "x": 12544,
+    "y": 16896,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1580",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 17152,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1581",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 17152,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1582",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 17152,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1583",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 17152,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1584",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 17152,
+    "instances": 2
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1585",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 17152,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1586",
+    "split": "test",
+    "component": 8,
+    "x": 12288,
+    "y": 17152,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1592",
+    "split": "test",
+    "component": 8,
+    "x": 10496,
+    "y": 17408,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1593",
+    "split": "test",
+    "component": 8,
+    "x": 10752,
+    "y": 17408,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1594",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 17408,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1595",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 17408,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1596",
+    "split": "test",
+    "component": 8,
+    "x": 12032,
+    "y": 17408,
+    "instances": 3
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1598",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 17664,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1599",
+    "split": "test",
+    "component": 8,
+    "x": 11520,
+    "y": 17664,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1600",
+    "split": "test",
+    "component": 8,
+    "x": 11776,
+    "y": 17664,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1602",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 17920,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1603",
+    "split": "test",
+    "component": 8,
+    "x": 11264,
+    "y": 17920,
+    "instances": 1
+  },
+  {
+    "id": "moxizheng_0.2m_UAV1607",
+    "split": "test",
+    "component": 8,
+    "x": 11008,
+    "y": 18176,
+    "instances": 1
+  }
+]

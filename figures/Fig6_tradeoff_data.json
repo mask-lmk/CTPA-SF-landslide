@@ -1,0 +1,15 @@
+{
+  "reference": "YOLO11n baseline (200epochs)",
+  "dataset": "Fixed grouped positive-only Bijie test",
+  "parameters_baseline": 2590035,
+  "parameters_sf": 2403155,
+  "reduction_percent": 7.215346510761438,
+  "paired_ap5095_differences_pp": [
+    8.12160343072097,
+    1.6765019575640694,
+    7.962915766256967
+  ],
+  "mean_difference_pp": 5.920340384847336,
+  "sd_difference_pp": 3.6761282474062082,
+  "limitation": "Different source training budgets:YOLO11n200 versus teacher200+SF recovery200; three descriptive paired seeds, not an equal-budget architectural or significance claim"
+}

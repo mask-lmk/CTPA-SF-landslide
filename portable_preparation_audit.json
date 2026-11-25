@@ -1,0 +1,12 @@
+{
+  "bijie_counts": {
+    "train": 1074,
+    "val": 158,
+    "test": 75
+  },
+  "all_pixels_match": true,
+  "all_box_coordinates_match": true,
+  "jiuzhai_images": 697,
+  "jiuzhai_all_pixels_match": true,
+  "jiuzhai_all_boxes_match": true
+}

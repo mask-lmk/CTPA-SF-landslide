@@ -1,0 +1,5578 @@
+[
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0891",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 0,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0892",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 0,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0893",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0894",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 256,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0902",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0903",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 256,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0904",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 256,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0905",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 256,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0906",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 256,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0907",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0908",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0917",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0918",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 512,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0919",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0920",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0921",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0922",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0923",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0924",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 512,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0925",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0926",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0927",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0928",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0929",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0937",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 768,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0938",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 768,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0939",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0940",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0941",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 768,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0942",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0943",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 1024,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0944",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0945",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0946",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0947",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0954",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0955",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0956",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0957",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 1024,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0958",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0959",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 1024,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0960",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 1024,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0961",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 1280,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0962",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 1280,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0963",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0964",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0965",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0966",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 1280,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0967",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0968",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0969",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0970",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0971",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0972",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 1280,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0973",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 1280,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0974",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0975",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 1280,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0976",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 1536,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0977",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 1536,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0978",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 1536,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0979",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 1536,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0980",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0981",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0982",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 1536,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0983",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 1536,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0984",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0985",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 1536,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0986",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 1536,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0987",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 1536,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0988",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 1536,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0990",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 1792,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0991",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0992",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0993",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 1792,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0994",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0995",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0996",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0997",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0998",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 1792,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA0999",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 1792,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1000",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1001",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 1792,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1002",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 1792,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1003",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 1792,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1004",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1005",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1006",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1007",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 2048,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1008",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 2048,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1009",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 2048,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1010",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1011",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1012",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1013",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 2048,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1014",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 2048,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1015",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 2048,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1016",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 2048,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1017",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 2304,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1018",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 2304,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1019",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 2304,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1020",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 2304,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1021",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 2304,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1022",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 2304,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1023",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 2304,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1024",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 2304,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1025",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1026",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 2304,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1027",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 2560,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1028",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 2560,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1029",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 2560,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1030",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1031",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 2560,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1032",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 2560,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1033",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 2560,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1034",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1035",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1036",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1037",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1038",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1039",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1040",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 2560,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1041",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 2816,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1042",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 2816,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1043",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 2816,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1044",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 2816,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1045",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 2816,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1046",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1047",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1048",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1049",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1050",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1051",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 2816,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1052",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 2816,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1053",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1054",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1055",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1056",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1057",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1058",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 2816,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1059",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 3072,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1060",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 3072,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1061",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 3072,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1062",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1063",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1064",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1065",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1066",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1067",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1068",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1069",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 3072,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1070",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 3072,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1071",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 3072,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1072",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1074",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1075",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 3072,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1076",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1077",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 3072,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1078",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1079",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 3328,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1080",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 3328,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1081",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 3328,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1082",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 3328,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1083",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1084",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1085",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1086",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1087",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1088",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1089",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1090",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1091",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 3328,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1092",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1093",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1094",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1095",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1096",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1097",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 3328,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1098",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 3328,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1099",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1100",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 3584,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1101",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 3584,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1102",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 3584,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1103",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 3584,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1104",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 3584,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1105",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1106",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1107",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1108",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 3584,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1109",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1110",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1111",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1112",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1113",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1114",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1115",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1116",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 3584,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1117",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 3584,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1118",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 3584,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1119",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1120",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 3584,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1121",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1122",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 3840,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1123",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1124",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1125",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1126",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1127",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1128",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1129",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 3840,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1130",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1131",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 3840,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1132",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 3840,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1133",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1134",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1135",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 3840,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1136",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 3840,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1137",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 3840,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1139",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1140",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 3840,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1141",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1142",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 3840,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1143",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1144",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1145",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 4096,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1146",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 4096,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1147",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1148",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 4096,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1149",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 4096,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1150",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 4096,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1151",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1152",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1153",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1154",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1155",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1156",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1157",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 4096,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1158",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1159",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 4096,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1160",
+    "split": "train",
+    "component": 9,
+    "x": 1792,
+    "y": 4096,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1161",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1162",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1163",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1164",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1165",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1166",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1167",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1168",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1169",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 4352,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1170",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 4352,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1171",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1172",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1173",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1174",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1175",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 4352,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1176",
+    "split": "train",
+    "component": 9,
+    "x": 1792,
+    "y": 4352,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1178",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 4608,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1179",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 4608,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1180",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1181",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1182",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1183",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1184",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1185",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1186",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 4608,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1187",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 4608,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1188",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 4608,
+    "instances": 10
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1189",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 4608,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1190",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1191",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1192",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1193",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1194",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1195",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 4608,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1196",
+    "split": "train",
+    "component": 9,
+    "x": 1792,
+    "y": 4608,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1197",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 4864,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1198",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 4864,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1199",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 4864,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1200",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 4864,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1201",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 4864,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1202",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1203",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 4864,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1204",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 4864,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1205",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 4864,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1206",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 4864,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1207",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 4864,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1208",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 4864,
+    "instances": 9
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1209",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 4864,
+    "instances": 11
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1210",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 4864,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1211",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1212",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 4864,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1214",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1215",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 5120,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1216",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 5120,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1217",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1218",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 5120,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1219",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1220",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1221",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1222",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 5120,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1223",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 5120,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1224",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 5120,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1225",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 5120,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1226",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 5120,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1227",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 5120,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1228",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 5120,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1229",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 5120,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1233",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1234",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 5376,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1235",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 5376,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1236",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1237",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 5376,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1238",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 5376,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1239",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 5376,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1240",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 5376,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1241",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 5376,
+    "instances": 8
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1242",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 5376,
+    "instances": 8
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1243",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 5376,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1244",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 5376,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1245",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1246",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 5376,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1255",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1256",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1257",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 5632,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1258",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1259",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 5632,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1260",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 5632,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1261",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 5632,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1262",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 5632,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1263",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 5632,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1264",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 5632,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1265",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1269",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 5632,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1270",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 5632,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1271",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 5632,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1278",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 5888,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1279",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 5888,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1280",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 5888,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1281",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1282",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1283",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1284",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1285",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 5888,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1286",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 5888,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1288",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1289",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1290",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 5888,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1291",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 5888,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1292",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 5888,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1293",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1294",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1295",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 5888,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1296",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 5888,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1297",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 5888,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1298",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 5888,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1301",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1302",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 6144,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1303",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1304",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1305",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1306",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1307",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 6144,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1308",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1309",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1310",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1311",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1312",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 6144,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1313",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 6144,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1314",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 6144,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1315",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1316",
+    "split": "train",
+    "component": 9,
+    "x": -768,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1317",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1318",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 6144,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1319",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1320",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1321",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 6144,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1324",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 6400,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1325",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 6400,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1326",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 6400,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1327",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 6400,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1328",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 6400,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1329",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1330",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1331",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1332",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1333",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1334",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1335",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1336",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1337",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1338",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1339",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1340",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1343",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1344",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1345",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1346",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 6400,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1347",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 6400,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1348",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1349",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 6400,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1350",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 6400,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1351",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 6400,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1354",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 6656,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1355",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1356",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1357",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1358",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 6656,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1359",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 6656,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1360",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1361",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 6656,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1362",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 6656,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1363",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1364",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1365",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1366",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1367",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1368",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1369",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1370",
+    "split": "train",
+    "component": 9,
+    "x": -1792,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1371",
+    "split": "train",
+    "component": 9,
+    "x": -1536,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1372",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1373",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1374",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1375",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1376",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1377",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1378",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 6656,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1379",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 6656,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1380",
+    "split": "train",
+    "component": 9,
+    "x": 1024,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1381",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 6656,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1382",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 6656,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1384",
+    "split": "train",
+    "component": 9,
+    "x": -5888,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1385",
+    "split": "train",
+    "component": 9,
+    "x": -5632,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1386",
+    "split": "train",
+    "component": 9,
+    "x": -5376,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1387",
+    "split": "train",
+    "component": 9,
+    "x": -5120,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1388",
+    "split": "train",
+    "component": 9,
+    "x": -4864,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1389",
+    "split": "train",
+    "component": 9,
+    "x": -4608,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1390",
+    "split": "train",
+    "component": 9,
+    "x": -4352,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1391",
+    "split": "train",
+    "component": 9,
+    "x": -4096,
+    "y": 6912,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1392",
+    "split": "train",
+    "component": 9,
+    "x": -3840,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1393",
+    "split": "train",
+    "component": 9,
+    "x": -3584,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1394",
+    "split": "train",
+    "component": 9,
+    "x": -3328,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1395",
+    "split": "train",
+    "component": 9,
+    "x": -3072,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1396",
+    "split": "train",
+    "component": 9,
+    "x": -2816,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1397",
+    "split": "train",
+    "component": 9,
+    "x": -2560,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1398",
+    "split": "train",
+    "component": 9,
+    "x": -2304,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1399",
+    "split": "train",
+    "component": 9,
+    "x": -2048,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1400",
+    "split": "train",
+    "component": 9,
+    "x": -1280,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1401",
+    "split": "train",
+    "component": 9,
+    "x": -1024,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1402",
+    "split": "train",
+    "component": 9,
+    "x": -512,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1403",
+    "split": "train",
+    "component": 9,
+    "x": -256,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1404",
+    "split": "train",
+    "component": 9,
+    "x": 0,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1405",
+    "split": "train",
+    "component": 9,
+    "x": 256,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1406",
+    "split": "train",
+    "component": 9,
+    "x": 512,
+    "y": 6912,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1407",
+    "split": "train",
+    "component": 9,
+    "x": 768,
+    "y": 6912,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1408",
+    "split": "train",
+    "component": 9,
+    "x": 1280,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1409",
+    "split": "train",
+    "component": 9,
+    "x": 1536,
+    "y": 6912,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1480",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1481",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1482",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 7936,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1483",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 7936,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1484",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1485",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1486",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1487",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1488",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1489",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1490",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1491",
+    "split": "val",
+    "component": 9,
+    "x": -3072,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1492",
+    "split": "val",
+    "component": 9,
+    "x": -2560,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1493",
+    "split": "val",
+    "component": 9,
+    "x": -2304,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1494",
+    "split": "val",
+    "component": 9,
+    "x": -2048,
+    "y": 7936,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1495",
+    "split": "val",
+    "component": 9,
+    "x": -1792,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1496",
+    "split": "val",
+    "component": 9,
+    "x": -1536,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1497",
+    "split": "val",
+    "component": 9,
+    "x": -1280,
+    "y": 7936,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1498",
+    "split": "val",
+    "component": 9,
+    "x": -1024,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1499",
+    "split": "val",
+    "component": 9,
+    "x": -768,
+    "y": 7936,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1505",
+    "split": "val",
+    "component": 9,
+    "x": -6400,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1506",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1507",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1508",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1509",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1510",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1511",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 8192,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1512",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1513",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1514",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1515",
+    "split": "val",
+    "component": 9,
+    "x": -3840,
+    "y": 8192,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1516",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1517",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1518",
+    "split": "val",
+    "component": 9,
+    "x": -3072,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1519",
+    "split": "val",
+    "component": 9,
+    "x": -2560,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1520",
+    "split": "val",
+    "component": 9,
+    "x": -2304,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1521",
+    "split": "val",
+    "component": 9,
+    "x": -2048,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1522",
+    "split": "val",
+    "component": 9,
+    "x": -1792,
+    "y": 8192,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1523",
+    "split": "val",
+    "component": 9,
+    "x": -1536,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1524",
+    "split": "val",
+    "component": 9,
+    "x": -1280,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1525",
+    "split": "val",
+    "component": 9,
+    "x": -1024,
+    "y": 8192,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1526",
+    "split": "val",
+    "component": 9,
+    "x": -768,
+    "y": 8192,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1535",
+    "split": "val",
+    "component": 9,
+    "x": -6400,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1536",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 8448,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1537",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1538",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1539",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 8448,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1540",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1541",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 8448,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1542",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1543",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1544",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1545",
+    "split": "val",
+    "component": 9,
+    "x": -3840,
+    "y": 8448,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1546",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1547",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1548",
+    "split": "val",
+    "component": 9,
+    "x": -3072,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1549",
+    "split": "val",
+    "component": 9,
+    "x": -2048,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1550",
+    "split": "val",
+    "component": 9,
+    "x": -1280,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1551",
+    "split": "val",
+    "component": 9,
+    "x": -1024,
+    "y": 8448,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1552",
+    "split": "val",
+    "component": 9,
+    "x": -768,
+    "y": 8448,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1564",
+    "split": "val",
+    "component": 9,
+    "x": -6400,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1565",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 8704,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1566",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 8704,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1567",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 8704,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1568",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 8704,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1569",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 8704,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1570",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 8704,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1571",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 8704,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1572",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1573",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1574",
+    "split": "val",
+    "component": 9,
+    "x": -3840,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1575",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 8704,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1576",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 8704,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1588",
+    "split": "val",
+    "component": 9,
+    "x": -6656,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1589",
+    "split": "val",
+    "component": 9,
+    "x": -6400,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1590",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 8960,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1591",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 8960,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1592",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 8960,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1593",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1594",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 8960,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1595",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1596",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1597",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1598",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 8960,
+    "instances": 7
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1599",
+    "split": "val",
+    "component": 9,
+    "x": -3840,
+    "y": 8960,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1600",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 8960,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1601",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 8960,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1608",
+    "split": "val",
+    "component": 9,
+    "x": -6400,
+    "y": 9216,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1609",
+    "split": "val",
+    "component": 9,
+    "x": -6144,
+    "y": 9216,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1610",
+    "split": "val",
+    "component": 9,
+    "x": -5888,
+    "y": 9216,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1611",
+    "split": "val",
+    "component": 9,
+    "x": -5632,
+    "y": 9216,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1612",
+    "split": "val",
+    "component": 9,
+    "x": -5376,
+    "y": 9216,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1613",
+    "split": "val",
+    "component": 9,
+    "x": -5120,
+    "y": 9216,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1614",
+    "split": "val",
+    "component": 9,
+    "x": -4864,
+    "y": 9216,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1615",
+    "split": "val",
+    "component": 9,
+    "x": -4608,
+    "y": 9216,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1616",
+    "split": "val",
+    "component": 9,
+    "x": -4352,
+    "y": 9216,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1617",
+    "split": "val",
+    "component": 9,
+    "x": -4096,
+    "y": 9216,
+    "instances": 9
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1618",
+    "split": "val",
+    "component": 9,
+    "x": -3840,
+    "y": 9216,
+    "instances": 8
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1619",
+    "split": "val",
+    "component": 9,
+    "x": -3584,
+    "y": 9216,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1620",
+    "split": "val",
+    "component": 9,
+    "x": -3328,
+    "y": 9216,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1687",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1688",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1689",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1690",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 10240,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1691",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 10240,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1692",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 10240,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1693",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1694",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 10240,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1695",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 10240,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1696",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 10240,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1697",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 10240,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1698",
+    "split": "test",
+    "component": 9,
+    "x": -3584,
+    "y": 10240,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1699",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1700",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1701",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1702",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 10496,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1703",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 10496,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1704",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 10496,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1706",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1707",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1708",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 10496,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1709",
+    "split": "test",
+    "component": 9,
+    "x": -3584,
+    "y": 10496,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1710",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 10752,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1711",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 10752,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1712",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 10752,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1713",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 10752,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1714",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1715",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1716",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 10752,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1717",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1718",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1719",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1720",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1721",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1722",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1723",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1724",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1725",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 11008,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1726",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 11008,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1727",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 11264,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1728",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 11264,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1729",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 11264,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1730",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1731",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1732",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1733",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1734",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 11264,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1735",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1736",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 11264,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1737",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 11520,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1738",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 11520,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1739",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1740",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1741",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 11520,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1742",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 11520,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1743",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1744",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 11520,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1745",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1746",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 11520,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1747",
+    "split": "test",
+    "component": 9,
+    "x": -3584,
+    "y": 11520,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1748",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 11776,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1749",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 11776,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1750",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1751",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 11776,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1752",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1753",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1754",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1755",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1756",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 11776,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1757",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 11776,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1758",
+    "split": "test",
+    "component": 9,
+    "x": -3584,
+    "y": 11776,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1759",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 12032,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1760",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 12032,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1761",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1762",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1763",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1764",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1765",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 12032,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1766",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1767",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1768",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 12032,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1769",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 12288,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1770",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 12288,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1771",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 12288,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1772",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 12288,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1773",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 12288,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1774",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 12288,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1775",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 12288,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1776",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 12288,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1777",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 12288,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1778",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 12544,
+    "instances": 6
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1779",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 12544,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1780",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1781",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1782",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1783",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 12544,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1784",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 12544,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1785",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 12544,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1786",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 12544,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1787",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 12544,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1788",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 12800,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1789",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1790",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1791",
+    "split": "test",
+    "component": 9,
+    "x": -5632,
+    "y": 12800,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1792",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 12800,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1793",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1794",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 12800,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1795",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1796",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 12800,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1797",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 12800,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1798",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 13056,
+    "instances": 8
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1799",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 13056,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1800",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1802",
+    "split": "test",
+    "component": 9,
+    "x": -5376,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1803",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 13056,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1804",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 13056,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1805",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 13056,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1806",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 13056,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1807",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 13056,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1808",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 13056,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1809",
+    "split": "test",
+    "component": 9,
+    "x": -6656,
+    "y": 13312,
+    "instances": 4
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1810",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 13312,
+    "instances": 8
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1811",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 13312,
+    "instances": 5
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1812",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 13312,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1815",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 13312,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1816",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 13312,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1817",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 13312,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1818",
+    "split": "test",
+    "component": 9,
+    "x": -4096,
+    "y": 13312,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1819",
+    "split": "test",
+    "component": 9,
+    "x": -3840,
+    "y": 13312,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1820",
+    "split": "test",
+    "component": 9,
+    "x": -6400,
+    "y": 13568,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1821",
+    "split": "test",
+    "component": 9,
+    "x": -6144,
+    "y": 13568,
+    "instances": 3
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1822",
+    "split": "test",
+    "component": 9,
+    "x": -5888,
+    "y": 13568,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1824",
+    "split": "test",
+    "component": 9,
+    "x": -5120,
+    "y": 13568,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1825",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 13568,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1826",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 13568,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1827",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 13568,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1829",
+    "split": "test",
+    "component": 9,
+    "x": -4864,
+    "y": 13824,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1830",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 13824,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1831",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 13824,
+    "instances": 1
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1833",
+    "split": "test",
+    "component": 9,
+    "x": -4608,
+    "y": 13896,
+    "instances": 2
+  },
+  {
+    "id": "jiuzzhaigou_0.5m_UVA1834",
+    "split": "test",
+    "component": 9,
+    "x": -4352,
+    "y": 13896,
+    "instances": 1
+  }
+]

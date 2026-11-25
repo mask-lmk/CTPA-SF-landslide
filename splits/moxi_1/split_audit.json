@@ -1,0 +1,30 @@
+{
+  "dataset": "moxi_1",
+  "counts": {
+    "train": 68,
+    "val": 23,
+    "test": 17
+  },
+  "instances": {
+    "train": 700,
+    "val": 154,
+    "test": 129
+  },
+  "axis": "y",
+  "cuts": [
+    2816.0,
+    4134.4000000000015
+  ],
+  "quantiles": [
+    0.5,
+    0.85
+  ],
+  "excluded_buffer": 52,
+  "minimum_rectangle_gaps_pixels": {
+    "train_to_val": 512,
+    "val_to_test": 768,
+    "train_to_test": 2048
+  },
+  "selection": "Count-only search across declared quantile grid, minimum train40/val15/test15, 512px centre buffers, no model score used",
+  "limitation": "Very small exploratory test subset; reconstructed relative positions, no world georeferencing. Moxi resolutions are the same region and separately adapted, not independent geographic replications."
+}

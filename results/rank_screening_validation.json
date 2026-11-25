@@ -1,0 +1,9 @@
+{
+  "selected": "sf_lr_aggressive",
+  "means": {
+    "sf_lr_balanced": 0.5510873085387437,
+    "sf_lr_attention_full": 0.5442083012598873,
+    "sf_lr_aggressive": 0.5514638098405612
+  },
+  "note": "Validation-only selection, not test ablation"
+}

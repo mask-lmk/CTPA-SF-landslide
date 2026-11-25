@@ -1,0 +1,1045 @@
+{
+  "groups": [
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "metrics": {
+        "precision": {
+          "mean": 0.0576309067688378,
+          "sample_sd": 0.027523823626648413
+        },
+        "recall": {
+          "mean": 0.03568235389742339,
+          "sample_sd": 0.014145694492599914
+        },
+        "map50": {
+          "mean": 0.031240280644392642,
+          "sample_sd": 0.014617925547668076
+        },
+        "map5095": {
+          "mean": 0.007512065948881565,
+          "sample_sd": 0.003432699322362335
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "metrics": {
+        "precision": {
+          "mean": 0.05658308852698742,
+          "sample_sd": 0.011782540844079488
+        },
+        "recall": {
+          "mean": 0.031130618548321547,
+          "sample_sd": 0.0013429823329154122
+        },
+        "map50": {
+          "mean": 0.029697914191847054,
+          "sample_sd": 0.006178580932453081
+        },
+        "map5095": {
+          "mean": 0.006288063412810741,
+          "sample_sd": 0.001028750342270507
+        }
+      }
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "metrics": {
+        "precision": {
+          "mean": 0.05367380195888375,
+          "sample_sd": 0.006369776969535808
+        },
+        "recall": {
+          "mean": 0.02909859383890108,
+          "sample_sd": 0.0035531972680475326
+        },
+        "map50": {
+          "mean": 0.028004036298290985,
+          "sample_sd": 0.00322133295336697
+        },
+        "map5095": {
+          "mean": 0.005838336004148737,
+          "sample_sd": 0.0005264194284572122
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "metrics": {
+        "precision": {
+          "mean": 0.1141467802503101,
+          "sample_sd": 0.0298411389735293
+        },
+        "recall": {
+          "mean": 0.07216824431685707,
+          "sample_sd": 0.017861059282418774
+        },
+        "map50": {
+          "mean": 0.06000763290038392,
+          "sample_sd": 0.026022776430343626
+        },
+        "map5095": {
+          "mean": 0.015324765933804009,
+          "sample_sd": 0.008535774308970415
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "metrics": {
+        "precision": {
+          "mean": 0.1503649638804896,
+          "sample_sd": 0.005029692996661663
+        },
+        "recall": {
+          "mean": 0.08327825512227363,
+          "sample_sd": 0.002705007525403982
+        },
+        "map50": {
+          "mean": 0.07694941219799172,
+          "sample_sd": 0.0011871884940336207
+        },
+        "map5095": {
+          "mean": 0.01931037084179732,
+          "sample_sd": 0.001156598190562453
+        }
+      }
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "metrics": {
+        "precision": {
+          "mean": 0.1433417484080782,
+          "sample_sd": 0.01224440874111135
+        },
+        "recall": {
+          "mean": 0.07997356245869135,
+          "sample_sd": 0.0055001047511874564
+        },
+        "map50": {
+          "mean": 0.07475140856935933,
+          "sample_sd": 0.0045850946588139475
+        },
+        "map5095": {
+          "mean": 0.018104095850927964,
+          "sample_sd": 0.002378699288110506
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "metrics": {
+        "precision": {
+          "mean": 0.023270057200311847,
+          "sample_sd": 0.011493500972762796
+        },
+        "recall": {
+          "mean": 0.0032634032634032634,
+          "sample_sd": 0.0017598681667297788
+        },
+        "map50": {
+          "mean": 0.010052857380780468,
+          "sample_sd": 0.006557738554359049
+        },
+        "map5095": {
+          "mean": 0.0026065964183161244,
+          "sample_sd": 0.002224385764618592
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "metrics": {
+        "precision": {
+          "mean": 0.010531485862487358,
+          "sample_sd": 0.0034771907984118113
+        },
+        "recall": {
+          "mean": 0.0016317016317016317,
+          "sample_sd": 0.0008074828939715046
+        },
+        "map50": {
+          "mean": 0.0053733732669652015,
+          "sample_sd": 0.0015971428382836243
+        },
+        "map5095": {
+          "mean": 0.0015329276337790112,
+          "sample_sd": 0.0011422162827950271
+        }
+      }
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "metrics": {
+        "precision": {
+          "mean": 0.013472914466170284,
+          "sample_sd": 0.0065472291794167765
+        },
+        "recall": {
+          "mean": 0.0018648018648018648,
+          "sample_sd": 0.001068199462693669
+        },
+        "map50": {
+          "mean": 0.006087184684041257,
+          "sample_sd": 0.0027590633648454546
+        },
+        "map5095": {
+          "mean": 0.0013792604518504516,
+          "sample_sd": 0.001091451051618678
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "metrics": {
+        "precision": {
+          "mean": 0.08102868251107746,
+          "sample_sd": 0.005420379983812982
+        },
+        "recall": {
+          "mean": 0.024442446813064508,
+          "sample_sd": 0.0018039730752712204
+        },
+        "map50": {
+          "mean": 0.042614212356736764,
+          "sample_sd": 0.0037319338087341957
+        },
+        "map5095": {
+          "mean": 0.015797143620615316,
+          "sample_sd": 0.0013143806990533154
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "metrics": {
+        "precision": {
+          "mean": 0.07198869793184266,
+          "sample_sd": 0.013824201153654868
+        },
+        "recall": {
+          "mean": 0.021231967809597192,
+          "sample_sd": 0.004286841103854953
+        },
+        "map50": {
+          "mean": 0.038372139831568064,
+          "sample_sd": 0.006383029494353776
+        },
+        "map5095": {
+          "mean": 0.014921073790576467,
+          "sample_sd": 0.0023686330362731388
+        }
+      }
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "metrics": {
+        "precision": {
+          "mean": 0.06650993925492413,
+          "sample_sd": 0.010340624388916865
+        },
+        "recall": {
+          "mean": 0.018749197380249133,
+          "sample_sd": 0.004628437470383999
+        },
+        "map50": {
+          "mean": 0.035445997660161384,
+          "sample_sd": 0.005451771819676607
+        },
+        "map5095": {
+          "mean": 0.013533423841366937,
+          "sample_sd": 0.0016655309038323823
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "metrics": {
+        "precision": {
+          "mean": 0.020281618560515066,
+          "sample_sd": 0.008066360774098516
+        },
+        "recall": {
+          "mean": 0.01729160793158538,
+          "sample_sd": 0.004108165208983065
+        },
+        "map50": {
+          "mean": 0.012138008587385849,
+          "sample_sd": 0.006368593642635142
+        },
+        "map5095": {
+          "mean": 0.004239479350400506,
+          "sample_sd": 0.002764040194051723
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "metrics": {
+        "precision": {
+          "mean": 0.01891861575966065,
+          "sample_sd": 0.005882413434165919
+        },
+        "recall": {
+          "mean": 0.017009679541396483,
+          "sample_sd": 0.0032676136924562928
+        },
+        "map50": {
+          "mean": 0.010361771628588489,
+          "sample_sd": 0.00235970747239558
+        },
+        "map5095": {
+          "mean": 0.003554394152347807,
+          "sample_sd": 0.0007837082304640149
+        }
+      }
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "metrics": {
+        "precision": {
+          "mean": 0.016510143604223683,
+          "sample_sd": 0.0015121096146706913
+        },
+        "recall": {
+          "mean": 0.014566300159759422,
+          "sample_sd": 0.0035250445133936763
+        },
+        "map50": {
+          "mean": 0.0101100660270973,
+          "sample_sd": 0.002049350422428886
+        },
+        "map5095": {
+          "mean": 0.0036632027880053077,
+          "sample_sd": 0.001008298801321815
+        }
+      }
+    }
+  ],
+  "paired_new_sf_differences": [
+    {
+      "dataset": "jiuzhai_05",
+      "comparator": "yolo11n",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        0.0014353175798541605,
+        -0.005747262766196116,
+        -0.0007092446478565275
+      ],
+      "mean": -0.0016737299447328274,
+      "sample_sd": 0.003687145104655477
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "comparator": "ctpa",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.0005308599063186771,
+        -0.0011281400202268416,
+        0.00030981770055950666
+      ],
+      "mean": -0.000449727408662004,
+      "sample_sd": 0.0007224039474727937
+    },
+    {
+      "dataset": "moxi_02",
+      "comparator": "yolo11n",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        0.007880180824929025,
+        -0.009718990526344758,
+        0.010176799452787603
+      ],
+      "mean": 0.0027793299171239567,
+      "sample_sd": 0.010884604940519328
+    },
+    {
+      "dataset": "moxi_02",
+      "comparator": "ctpa",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.0007123461612045696,
+        -0.0026062019966676796,
+        -0.0003002768147358191
+      ],
+      "mean": -0.0012062749908693562,
+      "sample_sd": 0.0012297548547362562
+    },
+    {
+      "dataset": "moxi_1",
+      "comparator": "yolo11n",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.0047824327084760605,
+        0.0005931812884782315,
+        0.00050724352060081
+      ],
+      "mean": -0.001227335966465673,
+      "sample_sd": 0.0030791039213993072
+    },
+    {
+      "dataset": "moxi_1",
+      "comparator": "ctpa",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -6.807566199059766e-05,
+        -0.00022498390384297724,
+        -0.00016794197995210385
+      ],
+      "mean": -0.00015366718192855958,
+      "sample_sd": 7.942214102037887e-05
+    },
+    {
+      "dataset": "mengdong_05",
+      "comparator": "yolo11n",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.00487687115169283,
+        0.0007687474258604391,
+        -0.0026830356119127464
+      ],
+      "mean": -0.002263719779248379,
+      "sample_sd": 0.0028460712581462027
+    },
+    {
+      "dataset": "mengdong_05",
+      "comparator": "ctpa",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.0007170995717521167,
+        -0.0021450210686151973,
+        -0.001300829207261274
+      ],
+      "mean": -0.0013876499492095293,
+      "sample_sd": 0.0007179089992647114
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "comparator": "yolo11n",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.004314058405975313,
+        0.0010975620384016944,
+        0.001487666680388024
+      ],
+      "mean": -0.0005762765623951983,
+      "sample_sd": 0.0032428853264604798
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "comparator": "ctpa",
+      "definition": "newSF minus comparator, fractions",
+      "per_seed": [
+        -0.0001592066036593745,
+        -0.001318137995349719,
+        0.0018037705059815966
+      ],
+      "mean": 0.00010880863565750105,
+      "sample_sd": 0.001578116693736793
+    }
+  ],
+  "raw": [
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 0,
+      "precision": 0.06673306772908366,
+      "recall": 0.0326749573274811,
+      "map50": 0.034968826218287376,
+      "map5095": 0.006958073888127419,
+      "parameters": 2493267,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 1,
+      "precision": 0.059354226020892686,
+      "recall": 0.030480370641306997,
+      "map50": 0.03122634784407408,
+      "map5095": 0.0068025531656886185,
+      "parameters": 2493267,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 2,
+      "precision": 0.04366197183098591,
+      "recall": 0.03023652767617654,
+      "map50": 0.022898568513179708,
+      "map5095": 0.005103563184616187,
+      "parameters": 2493267,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 0,
+      "precision": 0.06101865859808371,
+      "recall": 0.029504998780785174,
+      "map50": 0.031723235854504594,
+      "map5095": 0.006427213981808742,
+      "parameters": 2403155,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 1,
+      "precision": 0.05033881897386254,
+      "recall": 0.025359668373567422,
+      "map50": 0.02619593401763141,
+      "map5095": 0.005674413145461777,
+      "parameters": 2403155,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 2,
+      "precision": 0.049663928304705,
+      "recall": 0.032431114362350646,
+      "map50": 0.026092939022736947,
+      "map5095": 0.005413380885175694,
+      "parameters": 2403155,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 0,
+      "precision": 0.03934571175950486,
+      "recall": 0.021702023896610582,
+      "map50": 0.02045050695031557,
+      "map5095": 0.004991896401954582,
+      "parameters": 2590035,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 1,
+      "precision": 0.08928571428571429,
+      "recall": 0.049987807851743477,
+      "map50": 0.04787657910386308,
+      "map5095": 0.011421675911657892,
+      "parameters": 2590035,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "jiuzhai_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 2,
+      "precision": 0.044261294261294264,
+      "recall": 0.035357229943916116,
+      "map50": 0.025393755878999277,
+      "map5095": 0.006122625533032221,
+      "parameters": 2590035,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 0,
+      "precision": 0.01791044776119403,
+      "recall": 0.013532562729066817,
+      "map50": 0.009145543235047744,
+      "map5095": 0.003186828983489929,
+      "parameters": 2493267,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 1,
+      "precision": 0.02523995734091717,
+      "recall": 0.020016915703411332,
+      "map50": 0.0130814754460803,
+      "map5095": 0.00445432649449429,
+      "parameters": 2493267,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 2,
+      "precision": 0.013605442176870748,
+      "recall": 0.017479560191711305,
+      "map50": 0.008858296204637421,
+      "map5095": 0.0030220269790592015,
+      "parameters": 2493267,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 0,
+      "precision": 0.017719568567026195,
+      "recall": 0.012968705948689032,
+      "map50": 0.009064956365119014,
+      "map5095": 0.0030276223798305544,
+      "parameters": 2403155,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 1,
+      "precision": 0.01699604743083004,
+      "recall": 0.012122920778122357,
+      "map50": 0.008793967410658358,
+      "map5095": 0.003136188499144571,
+      "parameters": 2403155,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 2,
+      "precision": 0.014814814814814815,
+      "recall": 0.018607273752466874,
+      "map50": 0.012471274305514526,
+      "map5095": 0.004825797485040798,
+      "parameters": 2403155,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 0,
+      "precision": 0.02765486725663717,
+      "recall": 0.021144629264166902,
+      "map50": 0.018982209048513915,
+      "map5095": 0.007341680785805868,
+      "parameters": 2590035,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 1,
+      "precision": 0.011666243976667512,
+      "recall": 0.012968705948689032,
+      "map50": 0.006386385869071693,
+      "map5095": 0.0020386264607428766,
+      "parameters": 2590035,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "longxi_sat_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 2,
+      "precision": 0.02152374444824052,
+      "recall": 0.017761488581900197,
+      "map50": 0.011045430844571939,
+      "map5095": 0.003338130804652774,
+      "parameters": 2590035,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 0,
+      "precision": 0.06378704168759418,
+      "recall": 0.01630923333761397,
+      "map50": 0.03242089705703062,
+      "map5095": 0.012468361396612327,
+      "parameters": 2493267,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 1,
+      "precision": 0.08794946550048591,
+      "recall": 0.02324386798510338,
+      "map50": 0.04511340825549292,
+      "map5095": 0.01719555874629743,
+      "parameters": 2493267,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 2,
+      "precision": 0.0642295866074479,
+      "recall": 0.024142802106074227,
+      "map50": 0.03758211418218065,
+      "map5095": 0.015099301228819643,
+      "parameters": 2493267,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 0,
+      "precision": 0.057794273594909865,
+      "recall": 0.013997688455117504,
+      "map50": 0.029302769212250203,
+      "map5095": 0.01175126182486021,
+      "parameters": 2403155,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 1,
+      "precision": 0.07793575566087414,
+      "recall": 0.01900603570052652,
+      "map50": 0.03970814712147917,
+      "map5095": 0.015050537677682232,
+      "parameters": 2403155,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 2,
+      "precision": 0.06379978850898836,
+      "recall": 0.02324386798510338,
+      "map50": 0.037327076646754775,
+      "map5095": 0.013798472021558369,
+      "parameters": 2403155,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 0,
+      "precision": 0.08368794326241134,
+      "recall": 0.022730191344548605,
+      "map50": 0.04487664031991033,
+      "map5095": 0.01662813297655304,
+      "parameters": 2590035,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 1,
+      "precision": 0.07479224376731301,
+      "recall": 0.02427122126621292,
+      "map50": 0.03830677503030141,
+      "map5095": 0.014281790251821793,
+      "parameters": 2590035,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "mengdong_05",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 2,
+      "precision": 0.08460586050350805,
+      "recall": 0.026325927828432003,
+      "map50": 0.04465922171999855,
+      "map5095": 0.016481507633471115,
+      "parameters": 2590035,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 0,
+      "precision": 0.1461499604441326,
+      "recall": 0.08030403172504957,
+      "map50": 0.07831845140537841,
+      "map5095": 0.01956910208654066,
+      "parameters": 2493267,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 1,
+      "precision": 0.14901224578422115,
+      "recall": 0.08393919365499009,
+      "map50": 0.07632584550107349,
+      "map5095": 0.018046318927247274,
+      "parameters": 2493267,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 2,
+      "precision": 0.15593268541311506,
+      "recall": 0.08559153998678123,
+      "map50": 0.07620393968752326,
+      "map5095": 0.020315691511604027,
+      "parameters": 2493267,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 0,
+      "precision": 0.14226406865474714,
+      "recall": 0.07766027759418374,
+      "map50": 0.07714970036725571,
+      "map5095": 0.018856755925336092,
+      "parameters": 2403155,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 1,
+      "precision": 0.1316718004587002,
+      "recall": 0.0760079312623926,
+      "map50": 0.06946456889893175,
+      "map5095": 0.015440116930579595,
+      "parameters": 2403155,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 2,
+      "precision": 0.1560893761107873,
+      "recall": 0.08625247851949769,
+      "map50": 0.07763995644189053,
+      "map5095": 0.020015414696868208,
+      "parameters": 2403155,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 0,
+      "precision": 0.08306264501160093,
+      "recall": 0.05915399867812293,
+      "map50": 0.046382180127351014,
+      "map5095": 0.010976575100407067,
+      "parameters": 2590035,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 1,
+      "precision": 0.1425661914460285,
+      "recall": 0.09253139458030403,
+      "map50": 0.09001400433659093,
+      "map5095": 0.025159107456924353,
+      "parameters": 2590035,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_02",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 2,
+      "precision": 0.11681150429330087,
+      "recall": 0.06481933969214428,
+      "map50": 0.04362671423720982,
+      "map5095": 0.009838615244080605,
+      "parameters": 2590035,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 0,
+      "precision": 0.006741601465256105,
+      "recall": 0.0006993006993006993,
+      "map50": 0.003648911208990244,
+      "map5095": 0.0003648911208990244,
+      "parameters": 2493267,
+      "checkpoint_sha256": "a6813d2e7bfa75013bcf8add3bcadd1219f28a6a592e3728ca703b683ba0b528",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 1,
+      "precision": 0.013574660633484163,
+      "recall": 0.002097902097902098,
+      "map50": 0.00680176523052363,
+      "map5095": 0.001586449834515986,
+      "parameters": 2493267,
+      "checkpoint_sha256": "5fcf9f9e85379bac24393f0a433bd1a61379756eb98cecd9d9dd469ddd3725dc",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "ctpa",
+      "implementation": "CTPA uncompressed, validation-selected continuation control",
+      "seed": 2,
+      "precision": 0.011278195488721804,
+      "recall": 0.002097902097902098,
+      "map50": 0.0056694433613817315,
+      "map5095": 0.002647441945922023,
+      "parameters": 2493267,
+      "checkpoint_sha256": "bb705bd69870f9fb607082a5bbb9adc646709a9b450d7343343f20ce0dff3f93",
+      "source_training_budget": "CTPA200 + recovery200, initial checkpoint eligible"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 0,
+      "precision": 0.0066413480459169595,
+      "recall": 0.0006993006993006993,
+      "map50": 0.0029681545890842672,
+      "map5095": 0.00029681545890842675,
+      "parameters": 2403155,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 1,
+      "precision": 0.01969288831034037,
+      "recall": 0.002097902097902098,
+      "map50": 0.00820898889315882,
+      "map5095": 0.0013614659306730088,
+      "parameters": 2403155,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "sf",
+      "implementation": "sf_lr_aggressive",
+      "seed": 2,
+      "precision": 0.014084507042253521,
+      "recall": 0.002797202797202797,
+      "map50": 0.007084410569880684,
+      "map5095": 0.002479499965969919,
+      "parameters": 2403155,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "source_training_budget": "CTPA teacher200 + SVD + recovery200"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 0,
+      "precision": 0.031818181818181815,
+      "recall": 0.0048951048951048955,
+      "map50": 0.01749414382759428,
+      "map5095": 0.005079248167384487,
+      "parameters": 2590035,
+      "checkpoint_sha256": "f81fef86d618515cc3dba3484b5dbe15e1b7f013b02c283bc55e5f799212f4f9",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 1,
+      "precision": 0.01020408163265306,
+      "recall": 0.0013986013986013986,
+      "map50": 0.0051179749059589615,
+      "map5095": 0.0007682846421947773,
+      "parameters": 2590035,
+      "checkpoint_sha256": "9828017e1f7e85368eba3431be2cadd8539013544fcd9c651df2a5758b15dc7f",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    },
+    {
+      "dataset": "moxi_1",
+      "model": "yolo11n",
+      "implementation": "YOLO11n original200",
+      "seed": 2,
+      "precision": 0.027787908150100668,
+      "recall": 0.0034965034965034965,
+      "map50": 0.007546453408788159,
+      "map5095": 0.001972256445369109,
+      "parameters": 2590035,
+      "checkpoint_sha256": "87379315c0faf07b59f5cef989d35239a5e80aee8a05d32d540fdfc4f1cc7c4a",
+      "source_training_budget": "YOLO11n200; no additional baseline training by author preference"
+    }
+  ],
+  "all_targets_retained": true,
+  "zero_shot": true
+}
