@@ -5,7 +5,7 @@
   "model_manifest.json": "3ac089cafdca8c30a7eb691d9a88337b89c3a1fd75e3d13709713363f809e98f",
   "portable_model_audit.json": "f9dea61357b106fb78586cd326698f2bb6361c442ebe7450940486ad4f18a723",
   "portable_preparation_audit.json": "0ff2e8e3a5b0c30170198c70ceeb1ab892b538047ce4940f762a20f3aa53cd42",
-  "README.md": "7b56b1ad1b2cd5b9d4cbdd102eb37580377f0eb77d599acba2bb36d291c590b4",
+  "README.md": "6ca6efcc7d15185e3fa11aea857d523ffebdbc1e8b12067471ad02617a68f195",
   "requirements.txt": "211d891d1932e0e35ac294354e39f1262277e5bd5240ce5608612152fedd0876",
   "checkpoints/frozen_source_hashes.json": "e0d8101ef9c236e3387299732b338a8ad3158f6145b468849903e154509d76a4",
   "figures/CPU_GPU_curve_export_audit.json": "32418a04085aa2364ed8bf634ae9403ed2f56ea8b30fd6a4b146c6b66580a7bf",
@@ -236,5 +236,10 @@
   "ultralytics/utils/callbacks/raytune.py": "4ba06ad7aa100d0f014209d9cc0d3324718dfc106bf2200cfd6b46a0b8847308",
   "ultralytics/utils/callbacks/tensorboard.py": "3033c15bb6837acfbae8e13a62a2975efa80fc4a1c8f310c1d618cfbccfdbd44",
   "ultralytics/utils/callbacks/wb.py": "4e6ffe691af608ddf6309918f6dca5a4c04991bd34efe31244d490eeb0c9e505",
-  "ultralytics/utils/callbacks/__init__.py": "8732fadd171ee9591984fe0b7229bd2ca8da762c5a406f3a9caa8f864ec8912d"
+  "ultralytics/utils/callbacks/__init__.py": "8732fadd171ee9591984fe0b7229bd2ca8da762c5a406f3a9caa8f864ec8912d",
+  "protocols/component_ablation.json": "d55d49c6a435fa9aeb589bbb690e2db7d825b43dd3dcf43745d5b6d60e0f56b5",
+  "results/component_ablation.json": "1896b0398320b1bcc8f4f9e0926913bd5b15691897bd7364e24b7a0d72ced64c",
+  "results/component_ablation_audit.json": "6fd85955768f6d47e8e01796170bc65bf4236daae06bb79e7884602be303bcd1",
+  "results/component_ablation_initialization.json": "a354208352f5d3b9e6ccad36c346c8f4f27f807b708fe272bd36466140420e12",
+  "sf/ablation.py": "a36e3dddec2403884b3dbd99f5552a1a975a92b6ab9e8890248c33511e271b38"
 }

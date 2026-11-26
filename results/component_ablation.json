@@ -1,0 +1,253 @@
+{
+  "groups": [
+    {
+      "variant": "attention_dense",
+      "parameters": 2427731,
+      "metrics": {
+        "precision": {
+          "mean": 0.9247091579486758,
+          "sample_sd": 0.026310259530936457
+        },
+        "recall": {
+          "mean": 0.91424552295999,
+          "sample_sd": 0.05492505468899394
+        },
+        "map50": {
+          "mean": 0.9571145372895065,
+          "sample_sd": 0.043384615395073316
+        },
+        "map5095": {
+          "mean": 0.5709615219609244,
+          "sample_sd": 0.043333304243234616
+        }
+      },
+      "difference_vs_fixed_sf_pp": {
+        "values": [
+          -0.27728775595211586,
+          0.1573375091297624,
+          0.48790524989843487
+        ],
+        "mean": 0.12265166769202714,
+        "sample_sd": 0.38377391097862945
+      }
+    },
+    {
+      "variant": "ffn_dense",
+      "parameters": 2444115,
+      "metrics": {
+        "precision": {
+          "mean": 0.9338868853172922,
+          "sample_sd": 0.033787850063156585
+        },
+        "recall": {
+          "mean": 0.9144994915524682,
+          "sample_sd": 0.05728838662643848
+        },
+        "map50": {
+          "mean": 0.9563550439975146,
+          "sample_sd": 0.042546131817600266
+        },
+        "map5095": {
+          "mean": 0.5750844661246152,
+          "sample_sd": 0.04138624590200648
+        }
+      },
+      "difference_vs_fixed_sf_pp": {
+        "values": [
+          -0.28844986254774607,
+          0.5918211659334816,
+          1.3014669487975583
+        ],
+        "mean": 0.5349460840610979,
+        "sample_sd": 0.7964828610542086
+      }
+    },
+    {
+      "variant": "fusion_dense",
+      "parameters": 2427731,
+      "metrics": {
+        "precision": {
+          "mean": 0.934726597892938,
+          "sample_sd": 0.05092920414416832
+        },
+        "recall": {
+          "mean": 0.9063813218250345,
+          "sample_sd": 0.048549053037193125
+        },
+        "map50": {
+          "mean": 0.9523090334042071,
+          "sample_sd": 0.04393356465818372
+        },
+        "map5095": {
+          "mean": 0.5729957995202779,
+          "sample_sd": 0.042985481330757934
+        }
+      },
+      "difference_vs_fixed_sf_pp": {
+        "values": [
+          0.15168536359086993,
+          0.6720246668631691,
+          0.15452824042808677
+        ],
+        "mean": 0.32607942362737524,
+        "sample_sd": 0.2996007409458166
+      }
+    }
+  ],
+  "raw": [
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\attention_dense_seed0\\weights\\best.pt",
+      "checkpoint_sha256": "0ce76bbc89b4289d22ac979e6b3c1f1e43d2ddcc1dc33a112f9db063d7886eeb",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.9458247001667008,
+      "recall": 0.96,
+      "map50": 0.9879700343739237,
+      "map5095": 0.6133530809402044,
+      "variant": "attention_dense",
+      "seed": 0
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\attention_dense_seed1\\weights\\best.pt",
+      "checkpoint_sha256": "f1a4b59c475206fce8ba57b3e27811f48debbd6f5d65944032f28ed3c63f8ae5",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.895234987493743,
+      "recall": 0.8533333333333334,
+      "map50": 0.907508161248032,
+      "map5095": 0.52674418622249,
+      "variant": "attention_dense",
+      "seed": 1
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\attention_dense_seed2\\weights\\best.pt",
+      "checkpoint_sha256": "0b1276a741a02553bef606b06233fd9f4a9af93167e6d6cb4a7102f8f058a1cf",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.9330677861855836,
+      "recall": 0.9294032355466364,
+      "map50": 0.9758654162465638,
+      "map5095": 0.572787298720079,
+      "variant": "attention_dense",
+      "seed": 2
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\ffn_dense_seed0\\weights\\best.pt",
+      "checkpoint_sha256": "9255533a9de560c7f57a9e403f4a1396f65fc969e5f4f62ac9a8b9d1e19c4cf2",
+      "parameters": 2444115,
+      "split": "test",
+      "precision": 0.968571675852723,
+      "recall": 0.96,
+      "map50": 0.9883105844601078,
+      "map5095": 0.613241459874248,
+      "variant": "ffn_dense",
+      "seed": 0
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\ffn_dense_seed1\\weights\\best.pt",
+      "checkpoint_sha256": "1573464e44fb4f0228526458b36487d6420c3db51e57c45812d8639ce250fdea",
+      "parameters": 2444115,
+      "split": "test",
+      "precision": 0.9010737825342329,
+      "recall": 0.8501651413240714,
+      "map50": 0.9080615514634705,
+      "map5095": 0.5310890227905272,
+      "variant": "ffn_dense",
+      "seed": 1
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\ffn_dense_seed2\\weights\\best.pt",
+      "checkpoint_sha256": "696d3874572eef43f53ed150a8d18c02265929de017539ded88ed920cbade700",
+      "parameters": 2444115,
+      "split": "test",
+      "precision": 0.9320151975649208,
+      "recall": 0.9333333333333333,
+      "map50": 0.9726929960689655,
+      "map5095": 0.5809229157090703,
+      "variant": "ffn_dense",
+      "seed": 2
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\fusion_dense_seed0\\weights\\best.pt",
+      "checkpoint_sha256": "d3c1089fcb41571661ba8c56c44263f1c38611fd8ba7c68d3080e43b3a54cda5",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.9560449013716013,
+      "recall": 0.9466666666666667,
+      "map50": 0.980334096420364,
+      "map5095": 0.6176428121356342,
+      "variant": "fusion_dense",
+      "seed": 0
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\fusion_dense_seed1.pt",
+      "checkpoint_sha256": "e13cd2ccd0f4615ee2325ee42ed8342b87dc88a8b01721be749c321e0cd68c1e",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.8766023928264259,
+      "recall": 0.8524772988084369,
+      "map50": 0.9016754016152778,
+      "map5095": 0.531891057799824,
+      "variant": "fusion_dense",
+      "seed": 1
+    },
+    {
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\recovery\\fusion_dense_seed2\\weights\\best.pt",
+      "checkpoint_sha256": "8091926751afbaa1bbb1ae11e5b4aa7b0cd857f0c4bdbeb51c3e001ce89ad7de",
+      "parameters": 2427731,
+      "split": "test",
+      "precision": 0.9715324994807868,
+      "recall": 0.92,
+      "map50": 0.9749176021769796,
+      "map5095": 0.5694535286253756,
+      "variant": "fusion_dense",
+      "seed": 2
+    }
+  ],
+  "fixed_sf_reference": [
+    {
+      "variant": "selected_student",
+      "seed": 0,
+      "name": "selected_student_seed0",
+      "split": "test",
+      "precision": 0.9595567469139483,
+      "recall": 0.96,
+      "map50": 0.9878214446553681,
+      "map5095": 0.6161259584997255,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed0\\weights\\best.pt"
+    },
+    {
+      "variant": "selected_student",
+      "seed": 1,
+      "name": "selected_student_seed1",
+      "split": "test",
+      "precision": 0.888083634947599,
+      "recall": 0.84,
+      "map50": 0.9013071715645271,
+      "map5095": 0.5251708111311923,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed1\\weights\\best.pt"
+    },
+    {
+      "variant": "selected_student",
+      "seed": 2,
+      "name": "selected_student_seed2",
+      "split": "test",
+      "precision": 0.9703739294325601,
+      "recall": 0.9333333333333333,
+      "map50": 0.9811569170053906,
+      "map5095": 0.5679082462210947,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed2\\weights\\best.pt"
+    }
+  ],
+  "main_model_unchanged": true,
+  "interpretation": "Exploratory component trade-offs; all variants retained, no automatic replacement."
+}

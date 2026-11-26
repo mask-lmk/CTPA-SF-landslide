@@ -1,0 +1,65 @@
+[
+  {
+    "variant": "attention_dense",
+    "seed": 0,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\attention_dense_seed0.pt",
+    "parameters": 2427731,
+    "sha256": "5cc6177016b7a190e4e578d8760748e85841354dddd98eea1d27624798f3d2a2"
+  },
+  {
+    "variant": "ffn_dense",
+    "seed": 0,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\ffn_dense_seed0.pt",
+    "parameters": 2444115,
+    "sha256": "68e7276b35dfc4d87feb82c760e34bec7f55031841a2ad03ebb46a1c7528173d"
+  },
+  {
+    "variant": "fusion_dense",
+    "seed": 0,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\fusion_dense_seed0.pt",
+    "parameters": 2427731,
+    "sha256": "fc3b11f55510d77e074a1c4f8c2d7993c532c9ee270a4677d74f0bef72baf363"
+  },
+  {
+    "variant": "attention_dense",
+    "seed": 1,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\attention_dense_seed1.pt",
+    "parameters": 2427731,
+    "sha256": "3a72393ebae9b31b07f311188f96c9c1234559f0766251dc6d36704324d71aa5"
+  },
+  {
+    "variant": "ffn_dense",
+    "seed": 1,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\ffn_dense_seed1.pt",
+    "parameters": 2444115,
+    "sha256": "307fa046232421b6c469a656bde921ab6778cd99534d090f8d668dd6eb17493a"
+  },
+  {
+    "variant": "fusion_dense",
+    "seed": 1,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\fusion_dense_seed1.pt",
+    "parameters": 2427731,
+    "sha256": "e13cd2ccd0f4615ee2325ee42ed8342b87dc88a8b01721be749c321e0cd68c1e"
+  },
+  {
+    "variant": "attention_dense",
+    "seed": 2,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\attention_dense_seed2.pt",
+    "parameters": 2427731,
+    "sha256": "2bd891967ab78d4d4e477761d46139d2c2bdf9f841634866a571393ccfd8ce06"
+  },
+  {
+    "variant": "ffn_dense",
+    "seed": 2,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\ffn_dense_seed2.pt",
+    "parameters": 2444115,
+    "sha256": "3b979afaaf6042a26c76fdfc5f995a504b4baa1a3cd602e9d152f087ed8d1013"
+  },
+  {
+    "variant": "fusion_dense",
+    "seed": 2,
+    "path": "${PROJECT_ROOT}\\revision_work\\sf_component_ablation_20261125\\initial\\fusion_dense_seed2.pt",
+    "parameters": 2427731,
+    "sha256": "a763e44d703b8538d17098b6155c10932171c6686d064c5f82efe6851d032b89"
+  }
+]

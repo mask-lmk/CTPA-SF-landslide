@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-11-25T18:07:55+08:00",
+  "variants": [
+    "attention_dense",
+    "ffn_dense",
+    "fusion_dense"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "parameters": {
+    "attention_dense": 2427731,
+    "ffn_dense": 2444115,
+    "fusion_dense": 2427731
+  },
+  "reference_sf_parameters": 2403155,
+  "initialization": "Same original200-epoch CTPA teachers; truncate-SVD48/32/80, then restore exactly one projection group from the same teacher. Other serialized initial tensors match existing full SF.",
+  "recovery": "200 epochs; fresh AdamW1e-4, cosine lrf.01, wd.0005, momentum.937, warmup3, bias warmup1e-4, nbs64, batch8, input640, AMP, deterministic, no early stopping or online augmentation. Same fixed train-only horizontal flip dataset.",
+  "selection": "Within-run best validation .1AP50+.9AP50-95; compare initial versus recovered by same FP32 validation fitness. Freeze all9 choices before final test phase.",
+  "evaluation": "FP32 input640,batch8,conf.001,iou.7,max_det300,no TTA",
+  "scope": "Post hoc explanatory ablation on previously inspected Bijie; not untouched confirmation or a search to replace the main model. Existing SF reference results and all nine new results retained; no automatic alias change or cross-domain retraining.",
+  "main_model": "sf_lr_aggressive remains fixed",
+  "reference_results": [
+    {
+      "variant": "selected_student",
+      "seed": 0,
+      "name": "selected_student_seed0",
+      "split": "test",
+      "precision": 0.9595567469139483,
+      "recall": 0.96,
+      "map50": 0.9878214446553681,
+      "map5095": 0.6161259584997255,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "136e799d62cfd4a4636e0950fc368ee8dc651bbaaf3e22d86d83877c64ba1fe1",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed0\\weights\\best.pt"
+    },
+    {
+      "variant": "selected_student",
+      "seed": 1,
+      "name": "selected_student_seed1",
+      "split": "test",
+      "precision": 0.888083634947599,
+      "recall": 0.84,
+      "map50": 0.9013071715645271,
+      "map5095": 0.5251708111311923,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "28224202e4f7730e05b2b61cd61b592b234b6fcbd465513e5504347c61ce18cb",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed1\\weights\\best.pt"
+    },
+    {
+      "variant": "selected_student",
+      "seed": 2,
+      "name": "selected_student_seed2",
+      "split": "test",
+      "precision": 0.9703739294325601,
+      "recall": 0.9333333333333333,
+      "map50": 0.9811569170053906,
+      "map5095": 0.5679082462210947,
+      "parameters": 2403155,
+      "fused_inference_parameters": 2396491,
+      "checkpoint_sha256": "ba07370576e5f88e3fdc0e0d5f5811070249b75b3c8bf7bd9fe53957733953a2",
+      "checkpoint": "${PROJECT_ROOT}\\revision_work\\sf_lowrank_study_20261123\\recovery\\selected_student_seed2\\weights\\best.pt"
+    }
+  ],
+  "checksums_sha256": "e1aa1aae7830327748fd0713fca53f734f21be85db0c55154175eb957d4537be"
+}

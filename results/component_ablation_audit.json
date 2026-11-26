@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-11-26T12:59:33+08:00",
+  "passed": true,
+  "recovery_runs": 9,
+  "epochs_per_run": 200,
+  "final_test_evaluations": 9,
+  "inputs_and_code_hashes_verified": true,
+  "selected_checkpoint_hashes_verified": true,
+  "main_model_unchanged": true
+}

@@ -67,3 +67,10 @@ All six common-baseline runs completed 200 epochs each. Values below use origina
 | CTPA-SF | 2,403,155 | 95.68 | 56.97±4.55 |
 
 SF is 0.29 percentage points below the YOLOv8n mean mAP50–95, with 20.19% fewer parameters. These are descriptive comparisons; source training budgets differ as stated above. No uniformly best-model claim is made.
+
+
+## Completed component ablations (2026-11-26)
+
+Nine leave-one-compression-out recoveries (three configurations × seeds0,1,2,200epochs each) and nine fixed test evaluations are complete. Restoring full-rank attention, FFN or fusion gives mean Bijie test mAP50–95 of57.10%,57.51%,57.30%, compared with56.97% for full SF. Parameter counts increase to2,427,731 /2,444,115 /2,427,731 from2,403,155. Full SF remains the minimum-parameter configuration, not the highest-accuracy variant in this table. Differences are exploratory descriptive results on a previously inspected test split, not proof of significance. All nine outcomes are retained in results/component_ablation.json.
+
+Use sf/ablation.py initialize --restore attention (or ffn/fusion) --checkpoint /source/ctpa_seed0.pt --output outputs/ablation_initial, then sf/ablation.py recover --checkpoint outputs/ablation_initial/initial.pt --data outputs/bijie/data.yaml --output outputs/ablation_recovery --seed 0. Use the same seeds and teacher checkpoints as the full-SF experiment, restore only one group, and use validation-only checkpoint selection. No main-model replacement or additional target fine-tuning follows automatically.
